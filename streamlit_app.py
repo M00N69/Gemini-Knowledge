@@ -36,24 +36,29 @@ def load_documents():
     documents_text = []
     for file_id in file_ids:
         url = f"https://drive.google.com/uc?export=download&id={file_id}"
-        response = requests.get(url)
-        response.raise_for_status()  # Ensure we notice bad responses
-        documents_text.append(response.text)
+        try:
+            response = requests.get(url)
+            response.raise_for_status()  # Ensure we notice bad responses
+            documents_text.append(response.text)
+        except requests.exceptions.HTTPError as e:
+            st.error(f"Failed to download document with ID {file_id}: {str(e)}")
+            return None  # Or handle the error differently if needed
     return "\n\n".join(documents_text)
 
 def main():
+    st.title("Question sur le Guide IFSv8")
     document_text = load_documents()
-    model = configure_model(document_text)
+    if document_text is not None:
+        model = configure_model(document_text)
 
-    st.title("Question sur la norme IFSv8")
-    user_input = st.text_area("Posez votre question ici:", height=300)
-
-    if st.button("Envoyer"):
-        with st.spinner('Attendez pendant que nous générons la réponse...'):
-            convo = model.start_chat(history=[{"role": "user", "parts": [user_input]}])
-            response = convo.send_message(user_input)
-            st.write(response.text)
+        user_input = st.text_area("Posez votre question ici:", height=300)
+        if st.button("Envoyer"):
+            with st.spinner('Attendez pendant que nous générons la réponse...'):
+                convo = model.start_chat(history=[{"role": "user", "parts": [user_input]}])
+                response = convo.send_message(user_input)
+                st.write(response.text)
+    else:
+        st.error("Error loading documents. Unable to proceed without document data.")
 
 if __name__ == "__main__":
     main()
-
