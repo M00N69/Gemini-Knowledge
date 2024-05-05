@@ -1,0 +1,4 @@
+# Filename: requirements.txt
+
+streamlit
+google-generativeai
