@@ -27,17 +27,25 @@ def configure_model(document_text):
     return model
 
 @st.cache(allow_output_mutation=True, ttl=86400)
-def load_document():
-    url = "https://drive.google.com/uc?export=download&id=1NIMYhm5i_J5T_yBnNtKRiLLqj7lwfhB8"
-    response = requests.get(url)
-    response.raise_for_status()  # Ensure we notice bad responses
-    return response.text
+def load_documents():
+    file_ids = [
+        "1NIMYhm5i_J5T_yBnNtKRiLLqj7lwfhB8",
+        "1toQFhNo9wLf0HMPBSXR2kffTOltGk0RkteH_ySHDx4o",
+        "1qB7b82ATPYbrJeE9WTnRNA7X9l8_fBs6ORwQ0F9RPnU"
+    ]
+    documents_text = []
+    for file_id in file_ids:
+        url = f"https://drive.google.com/uc?export=download&id={file_id}"
+        response = requests.get(url)
+        response.raise_for_status()  # Ensure we notice bad responses
+        documents_text.append(response.text)
+    return "\n\n".join(documents_text)
 
 def main():
-    document_text = load_document()
+    document_text = load_documents()
     model = configure_model(document_text)
 
-    st.title("Question sur le Guide IFSv8")
+    st.title("Question sur la norme IFSv8")
     user_input = st.text_area("Posez votre question ici:", height=300)
 
     if st.button("Envoyer"):
