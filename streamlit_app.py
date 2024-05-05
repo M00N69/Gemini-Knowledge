@@ -37,7 +37,7 @@ def main():
     document_text = load_document()
     model = configure_model(document_text)
 
-    st.title("Reformulation des Non-Conformités")
+    st.title("Question sur le Guide IFSv8")
     user_input = st.text_area("Posez votre question ici:", height=300)
 
     if st.button("Envoyer"):
