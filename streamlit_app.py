@@ -46,7 +46,7 @@ def load_documents():
     return "\n\n".join(documents_text)
 
 def main():
-    st.title("Question sur le Guide IFSv8")
+    st.title("Question sur IFSv8")
     document_text = load_documents()
     if document_text is not None:
         model = configure_model(document_text)
