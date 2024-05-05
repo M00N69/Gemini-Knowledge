@@ -30,8 +30,8 @@ def configure_model(document_text):
 def load_documents():
     file_ids = [
         "1NIMYhm5i_J5T_yBnNtKRiLLqj7lwfhB8",
-        "1toQFhNo9wLf0HMPBSXR2kffTOltGk0RkteH_ySHDx4o",
-        "1qB7b82ATPYbrJeE9WTnRNA7X9l8_fBs6ORwQ0F9RPnU"
+        "1onqo6pmm_R28j-CVWgIKAgXE9KQeLLu4",
+        "1rN6aODkRlABu62hMCYZ4dMYx2TM2OQUf8PKbIA8Nfdc"
     ]
     documents_text = []
     for file_id in file_ids:
