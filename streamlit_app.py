@@ -46,11 +46,11 @@ def load_documents():
     return "\n\n".join(documents_text)
 
 
-# Displaying an image without a caption
-image_path = 'https://github.com/M00N69/Gemini-Knowledge/blob/main/visipilot%20banner.PNG'  # Ensure the path to your image file is correct
-st.image(image_path, use_column_width=True)
-
 def main():
+   # Displaying an image without a caption
+    image_path = 'https://github.com/M00N69/Gemini-Knowledge/blob/main/visipilot%20banner.PNG'  # Ensure the path to your image file is correct
+    st.image(image_path, use_column_width=True)
+    
     st.title("Question sur IFSv8")
     document_text = load_documents()
     if document_text is not None:
