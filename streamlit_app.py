@@ -48,7 +48,7 @@ def load_documents():
 
 def main():
    # Displaying an image without a caption
-    image_path = 'https://github.com/M00N69/Gemini-Knowledge/blob/main/visipilot%20banner.PNG'  # Ensure the path to your image file is correct
+    image_path = 'https://raw.githubusercontent.com/M00N69/Gemini-Knowledge/main/visipilot%20banner.PNG'  # Ensure the path to your image file is correct
     st.image(image_path, use_column_width=True)
     
     st.title("Question sur IFSv8")
