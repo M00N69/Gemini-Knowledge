@@ -44,8 +44,7 @@ def load_documents():
         except requests.exceptions.HTTPError as e:
             st.error(f"Failed to download document with ID {file_id}: {str(e)}")
             return None  # Or handle the error differently if needed
-    return "\n\n".join(documents_text)
-
+    return "\n\n".join(documents_text), file_ids  # Return both documents_text and file_ids
 
 def main():
     # Displaying an image without a caption
@@ -53,7 +52,7 @@ def main():
     st.image(image_path, use_column_width=True)
 
     st.title("Question sur IFSv8")
-    document_text = load_documents()
+    document_text, file_ids = load_documents()  # Receive both values from load_documents
 
     if document_text is not None:
         st.write(f"Documents chargés : {', '.join(file_ids)}")
