@@ -48,25 +48,25 @@ def load_documents():
 
 
 def main():
-   # Displaying an image without a caption
+    # Displaying an image without a caption
     image_path = 'https://raw.githubusercontent.com/M00N69/Gemini-Knowledge/main/visipilot%20banner.PNG'  # Ensure the path to your image file is correct
     st.image(image_path, use_column_width=True)
-    
+
     st.title("Question sur IFSv8")
     document_text = load_documents()
 
-if document_text is not None:
-    st.write(f"Documents chargés : {', '.join(file_ids)}")
-    model = configure_model(document_text)
+    if document_text is not None:
+        st.write(f"Documents chargés : {', '.join(file_ids)}")
+        model = configure_model(document_text)
 
-    user_input = st.text_area("Posez votre question ici:", height=300)
-    if st.button("Envoyer"):
-        with st.spinner('Attendez pendant que nous générons la réponse...'):
-            convo = model.start_chat(history=[{"role": "user", "parts": [user_input]}])
-            response = convo.send_message(user_input)
-            st.write(response.text)
-else:
-    st.error("Error loading documents. Unable to proceed without document data.")
+        user_input = st.text_area("Posez votre question ici:", height=300)
+        if st.button("Envoyer"):
+            with st.spinner('Attendez pendant que nous générons la réponse...'):
+                convo = model.start_chat(history=[{"role": "user", "parts": [user_input]}])
+                response = convo.send_message(user_input)
+                st.write(response.text)
+    else:
+        st.error("Error loading documents. Unable to proceed without document data.")
 
 if __name__ == "__main__":
     main()
