@@ -51,7 +51,7 @@ def main():
     image_path = 'https://raw.githubusercontent.com/M00N69/Gemini-Knowledge/main/visipilot%20banner.PNG'  # Ensure the path to your image file is correct
     st.image(image_path, use_column_width=True)
 
-    st.title("Question sur IFSv8")
+    st.title("Question sur IFSv8 et PAM")
     document_text, file_ids = load_documents()  # Receive both values from load_documents
 
     if document_text is not None:
