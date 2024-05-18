@@ -54,17 +54,19 @@ def main():
     
     st.title("Question sur IFSv8")
     document_text = load_documents()
-    if document_text is not None:
-        model = configure_model(document_text)
 
-        user_input = st.text_area("Posez votre question ici:", height=300)
-        if st.button("Envoyer"):
-            with st.spinner('Attendez pendant que nous générons la réponse...'):
-                convo = model.start_chat(history=[{"role": "user", "parts": [user_input]}])
-                response = convo.send_message(user_input)
-                st.write(response.text)
-    else:
-        st.error("Error loading documents. Unable to proceed without document data.")
+if document_text is not None:
+    st.write(f"Documents chargés : {', '.join(file_ids)}")
+    model = configure_model(document_text)
+
+    user_input = st.text_area("Posez votre question ici:", height=300)
+    if st.button("Envoyer"):
+        with st.spinner('Attendez pendant que nous générons la réponse...'):
+            convo = model.start_chat(history=[{"role": "user", "parts": [user_input]}])
+            response = convo.send_message(user_input)
+            st.write(response.text)
+else:
+    st.error("Error loading documents. Unable to proceed without document data.")
 
 if __name__ == "__main__":
     main()
