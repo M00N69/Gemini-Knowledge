@@ -65,7 +65,7 @@ def main():
     st.title("Question sur les matériaux en contact avec des denrées alimentaires")
 
     # URL du fichier texte sur GitHub
-    url = "https://raw.githubusercontent.com/M00N69/nconfgemini/main/ania-cetim-2022%20%20MEMENTO%20%20MCDA.txt"
+    url = "https://raw.githubusercontent.com/M00N69/Gemini-Knowledge/main/BRC9_GUIde%20_interpretation.txt"
     document_text = load_document_from_github(url)
 
     if document_text:
