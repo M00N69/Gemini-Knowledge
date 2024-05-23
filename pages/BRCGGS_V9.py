@@ -62,7 +62,7 @@ def main():
     """
     st.markdown(css, unsafe_allow_html=True)
     
-    st.title("Question sur les matériaux en contact avec des denrées alimentaires")
+    st.title("Question sur la norme BRCGS V9")
 
     # URL du fichier texte sur GitHub
     url = "https://raw.githubusercontent.com/M00N69/Gemini-Knowledge/main/BRC9_GUIde%20_interpretation.txt"
@@ -72,7 +72,7 @@ def main():
         api_key = st.secrets["api_key"]
         model = configure_model(api_key, document_text)
 
-        user_input = st.text_area("Posez votre question ici:", height=300)
+        user_input = st.text_area("Posez votre question ici, faites référence à la norme pour plus de précision:", height=300)
         if st.button("Envoyer"):
             with st.spinner('Attendez pendant que nous générons la réponse...'):
                 convo = model.start_chat(history=[{"role": "user", "parts": [user_input]}])
