@@ -1,0 +1,1140 @@
+PerformancesMÉMENTO
+Matériaux destinés  
+à entrer au contact  
+des denrées alimentaires  (MCDA) 
+Exigences « d’alimentarité »  
+  
+
+Sommaire PerformancesMatériaux destinés  
+à entrer au contact  
+des denrées alimentaires  (MCDA) 
+Exigences « d’alimentarité »  
+MÉMENTO 
+Date de mise à jour : 17 octobre 2022
+RÉDACTEUR : 
+Le responsable de la prestation Delphine GUILLOU 
+APPROBATEUR : 
+Le responsable de l’activité 
+Laetitia BENOIST 
+  
+
+© CENTRE TECHNIQUE DES INDUSTRIES MÉCANIQUES (CETIM), 2022 
+ISSN 1767-2546 
+ISBN 978-2-36894-265-9 
+«Toute reproduction ou représentation intégrale ou partielle, par quelque procédé que ce soit de cet ouvrage  faite sans l’autorisation du CETIM est illicite. Elle constitue une contrefaçon. Seules sont autorisées, d’une part  les reproductions strictement réservées à l’usage privé du copiste et non destinées à une utilisation collective  et, d’autre part, les analyses et courtes citations justifiées par le caractère scientifique ou d’information de  l’œuvre dans laquelle elles sont incorporées.» (Code de la propriété intellectuelle, articles L.122-5 et L.335-2)
+Sommaire
+1 Objet du mémento et domaine d’application ������������������������������������ 5 2 Organismes habilités et bases de la réglementation������������������������ 5 3 Différentes réglementations applicables ������������������������������������������� 6 4 Point d’actualité (évolutions les plus récentes)��������������������������������� 7 
+5 Réglementations, recommandations et normes  
+applicables aux MCDA ������������������������������������������������������������������������ 16 5.1 Exigences applicables aux MCDA��������������������������������������������������������������� 16 5.2 Recommandations et normes concernant les MCDA���������������������������������� 17 
+6 Règlement cadre (CE) n° 1935/2004���������������������������������������������������� 18 6.1 Domaine d’application – Article 1 �������������������������������������������������������������� 18 6.2 Bonnes pratiques de fabrication (BPF) – Article 3 ������������������������������������� 18 6.3 Principe d’inertie – Articles 3 et 4�������������������������������������������������������������� 18 6.4 Mesures spécifiques – Article 5 ����������������������������������������������������������������� 19 6.5 Dispositions nationales – Article 6������������������������������������������������������������� 19 6.6 Règles d’étiquetage – Article 15 ���������������������������������������������������������������� 20 6.7 Déclaration de conformité – Article 16������������������������������������������������������� 21 6.8 Traçabilité – Article 17 ������������������������������������������������������������������������������� 22 
+7 Mesures spécifiques����������������������������������������������������������������������������� 23 7.1 Matières plastiques (réglementation harmonisée) ������������������������������������ 23 7.1.1 Règlement (UE) n° 10/2011 ������������������������������������������������������������������������������ 23 7.1.2 Guides d’application du règlement (UE) n° 10/2011 ���������������������������������������� 24 7.1.3 Essais de migration������������������������������������������������������������������������������������������ 24 7.1.4 Matières plastiques recyclées�������������������������������������������������������������������������� 25 7.1.5 Réglementation relative à des substances ������������������������������������������������������ 26 
+7.2 Autres domaines à réglementation harmonisée ���������������������������������������� 26 7.2.1 Matériaux actifs et intelligents������������������������������������������������������������������������� 26 7.2.2 Cellulose régénérée ����������������������������������������������������������������������������������������� 26 7.2.3 Céramiques ������������������������������������������������������������������������������������������������������ 26 
+7.3 Classes de matériaux avec réglementations  
+non harmonisées (ou partiellement)���������������������������������������������������������� 27 7.3.1 Élastomères et caoutchoucs ���������������������������������������������������������������������������� 27 7.3.2 Métaux�������������������������������������������������������������������������������������������������������������� 28 
+7.4 Autres textes non réglementaires�������������������������������������������������������������� 31 7.4.1 Conseil de l’Europe������������������������������������������������������������������������������������������� 31 7.4.2 Fiches DGCCRF ������������������������������������������������������������������������������������������������ 31 
+Annexe 1 : Déclaration de conformité ��������������������������������������������������� 33 
+Annexe 2 : Liste des textes réglementaires (UE et France)  référencés ...���������������������������������������������������������������������������������������������� 41 
+Annexe 3 : Laboratoires �������������������������������������������������������������������������� 49 Annexe 4 : Liens Internet������������������������������������������������������������������������ 53
+4 
+L’« alimentarité » peut être définie comme l’aptitude d’un matériau ou objet à être mis en contact  avec des denrées alimentaires en respectant le principe de base de toute réglementation relative aux  MCDA, à savoir : le principe d’inertie, mais en respectant également toutes les exigences générales et  spécifiques applicables. L’alimentarité ne constitue donc pas une caractéristique intrinsèque d’un maté 
+riau, mais dépend de l’aliment au contact et des conditions d’usage : température et durée du contact  notamment. L’alimentarité d’un matériau n’est pas non plus une caractéristique universelle, mais dépend  des différences entre les réglementations en vigueur dans les différents pays. 
+En cas de questions ou si vous constatez une erreur ou pour toute autre remarque concernant ce  mémento, n’hésitez pas à en faire part par courriel à cette adresse. 
+Mise à jour du 17/10/2022 
+1 Objet du mémento et domaine d’application 
+Ce mémento est à l’usage1 : 
+◗ des fabricants d’équipements, de matériels et de composants de ces matériels et équipements  destinés : 
+◗ aux industries alimentaires (IAA), 
+◗ aux artisans (boulangers, pâtissiers…), 
+◗ aux restaurateurs (équipements des grandes cuisines)… 
+◗ et des fabricants d’articles culinaires. 
+Il synthétise, pour l’Europe et la France, les règles que les fabricants sont légalement tenus de  respecter et les recommandations applicables aux matériaux et objets destinés à entrer au contact  des denrées alimentaires. 
+2 Organismes habilités et bases  
+de la réglementation 
+La réglementation européenne qui concerne la sécurité sanitaire des matériaux et objets  au contact des denrées alimentaires relève de la DG SANTÉ (https://ec.europa.eu/food/safety/ chemical_safety/food_contact_materials_en) (Direction générale Santé et sécurité alimentaire)  au sein de la Commission européenne. 
+◗ La DG SANTÉ s’appuie sur les avis de comités scientifiques tout particulièrement de  l’Autorité européenne de sécurité des aliments (EFSA https://www.efsa.europa.eu/fr/ topics/topic/food-contact-materials) dont le groupe scientifique (CEF) se concentre sur  les matériaux en contact avec les aliments, les enzymes, les arômes ainsi que les auxiliaires  technologiques et également sur la sécurité des procédés. 
+◗ Les rapports et lignes directrices publiés ou les résolutions adoptées par le Comité des  ministres du Conseil de l’Europe ne constituent que des recommandations qu’il n’est pas  légalement obligatoire de respecter. Néanmoins, les résultats des travaux du Conseil de  l’Europe sont utilisés par la Commission européenne pour l’élaboration de la réglementation  (https://www.edqm.eu/fr/materiaux-et-objets-pour-contact-alimentaire). 
+En France, les textes réglementaires sont élaborés par la DGCCRF (https://www.economie. gouv.fr/dgccrf/Materiaux-au-contact-des-denrees-alimentaires). 
+1. Ce mémento ne vise pas à couvrir le domaine des matériaux d’emballage même si les règles définies leur sont également le plus  souvent applicables.
+5 
+3 Différentes réglementations applicables 
+MCDA (Réglementation, recommandations et normes) 
+Réglementation 
+– UE : Règlement (CE) N° 1935/2004 + BPF (EC 2023/2026) 
+– + mesures spécifiques (plastiques…) 
+– Dispositions nationales (France, Italie…) 
+Recommandations 
+– Recommandations du Conseil de l’Europe (par exemple pour les métaux) – Recommandations Bfr (Allemagne), Fiches DGCCRF (France)… Normes (EN 601 et EN 602 pour l’aluminium et les alliages d’aluminium) 
+Fabricant 
+d’articles culinaires DoC 
+Distributeur 
+Directive Machines (Annexe I, 2.1) 
+Machines et équipement 
+pour l’industrie alimentaire et la restauration Conditions d’utilisation 
+Étiquetage Utilisateur 
+Fabricant 
+de machines et d’équipement 
+DoC* 
+(pour des conditions d’utilisation données) 
+Utilisateur de machine 
+et équipements 
+(= Exploitant du secteur alimentaire) 
+Règles de conception hygiénique Paquet Hygiène 
+– Normes harmonisées 
+– Recommandations : EHEDG… 
+* : DoC = Déclaration de conformité (Declaration of Compliance) 
+Réglementation 
+– Règlement CE N° 178/2002 (« food law ») – + Règlements spécifiques concernant  les aliments pour l’homme ou les animaux 
+Ce mémento ne concerne que les MCDA et les réglementations, recommandations et normes  qui y sont applicables. Mais le fabricant d’une machine utilisée par un exploitant du secteur ali mentaire se doit également de respecter les exigences de la directive Machines 2006/42/CE et  tout particulièrement l’article 2.1 de l’Annexe I concernant les machines destinées à l’industrie  alimentaire : 
+◗ respect de la réglementation MCDA ; 
+◗ aptitude au nettoyage des matériaux (à usage non unique) ; 
+◗ conception hygiénique ; 
+◗ notice d’instruction et préconisations de nettoyage. 
+La conformité avec les clauses normatives des normes harmonisées spécifiques machine de  type C développées par le CEN TC 153 et/ou des normes harmonisées plus générales qui ne sont  pas spécifiques à un type de machine, norme EN 1672-2 et/ou la norme de type B EN ISO 14159,  confère, dans les limites du domaine d’application de chaque norme, une présomption de confor 
+mité avec l’exigence essentielle 2.1 de la directive Machines. 
+Les recommandations EHEDG fournissent également des règles de conception hygiénique. 
+De son côté, l’exploitant du secteur alimentaire se doit de respecter les règles définies dans  le paquet hygiène qui impose que le matériel utilisé respecte la réglementation matériaux au 
+6 
+contact, soit nettoyable et qu’il permette de satisfaire aux exigences d’hygiène, d’où la nécessité  d’une conception hygiénique. 
+La déclaration de conformité (DoC) peut être utilisée comme un moyen d’échanges d’informa tions entre le fabricant de machines ou équipements et l’utilisateur de ces machines. 
+4 Point d’actualité (évolutions les plus récentes) 
+Version datée du 17/10/2022 
+De par la date de certaines normes, techniquement dépassées, de nombreuses révisions sont  en cours ou à venir. 
+◗ Travaux en cours 
+Projet de norme ISO 6486-2 : Vaisselle en céramique, vaisselle en vitrocéramique et vais selle de table en verre en contact avec les aliments – Émission de plomb et de cadmium  – Partie 2 : limites admissibles. 
+Projet de norme ISO 7086-2 – Vaisselle creuse en verre en contact avec les aliments – Émis sion de plomb et de cadmium – Partie 2 : limites admissibles. 
+◗ Enquête publique (clôturée le 15/01/2022) 
+Sur le projet de norme Pr NF EN 13288 : Machines pour les produits alimentaires – Éléva teurs/basculeurs de cuve – Prescriptions relatives à la sécurité et à l’hygiène. 
+Sur le projet de norme Pr NF EN 17657 : Équipements pour les abattoirs – Boxes d’abattage  pour bovins – Prescriptions relatives à la sécurité et à la nettoyabilité. 
+◗ Consultation publique de la Commission européenne (clôturée le 10/01/2022) 
+Sur le nouveau règlement concernant les plastiques recyclés dans les matériaux et objets  destinés à entrer en contact avec des denrées alimentaires. 
+◗ Consultation pour réinscriptions des révisions des normes pour machine de préparation  des pâtes alimentaires 
+EN 13289 : Séchoirs et refroidisseurs. 
+EN 13378 : Presses pour pâtes alimentaires. 
+EN 13379 : Étendeuses, dégarnisseuses-découpeuses, convoyeurs de retour des cannes et  accumulateurs de cannes. 
+Avec un avis positif avant le 22/02/2022 
+◗ Mise à jour de la réglementation pour les pays suivants : 
+Date de mise à jour : février 2022 : 
+◗ PAYS-BAS 
+◗ ALLEMAGNE 
+◗ FINLANDE 
+◗ SUÈDE 
+Date de mise à jour : avril 2022 
+◗ MEXIQUE 
+◗ JAPON
+7 
+Date de mise à jour : juillet 2022 
+◗ ÉTATS-UNIS 
+◗ CHINE 
+◗ BRÉSIL 
+◗ RUSSIE 
+Version datée du 31/01/2022 
+◗ Projet de modification du règlement CE 1935/2004 
+Le règlement sur les plastiques 10/2011 est le seul qui a pu faire l’objet d’un consensus. L’accent ne serait plus mis sur les listes des substances autorisées à entrer dans la compo sition des matériaux et objets en contact avec les denrées alimentaires, mais plutôt sur  la définition d’un niveau général de sécurité auquel ces matériaux et objets devraient se  conformer. 
+Les fabricants et utilisateurs des matériaux et objets en contact avec les denrées alimen taires devraient déterminer unilatéralement les procédures à mettre en place pour garantir  l’atteinte du niveau de sécurité fixé. 
+La robustesse des procédures serait contrôlée a posteriori, bien que le recours à des orga nismes tiers d’évaluation de la conformité soit également envisagé. 
+Enfin, la règle de « listes » ne serait pas complètement abandonnée : elle ne viserait plus, en  revanche, que les substances dont la présence devrait être évitée. Les substances concer nées y seraient classées par niveaux de danger, à établir en coopération avec les agences  européennes concernées (ECHA et EFSA). 
+◗ Travaux en cours 
+◗ Projet de norme ISO 6486-2 : Vaisselle en céramique, vaisselle en vitrocéramique et vais selle de table en verre en contact avec les aliments – Émission de plomb et de cadmium  – Partie 2 : limites admissibles. 
+◗ Projet de norme ISO 7086-2 : Vaisselle creuse en verre en contact avec les aliments  – Émission de plomb et de cadmium – Partie 2 : limites admissibles. 
+◗ Enquête publique sur le projet de norme Pr NF EN 13288 « Machines pour les produits  alimentaires – Élévateurs/basculeurs de cuve – Prescriptions relatives à la sécurité et à  l’hygiène » (clôture : 15 janvier 2022). 
+Remplace la norme homologuée NF EN 13288+A1, de mars 2010. 
+Par rapport au document remplacé, les principales modifications portent sur : ◗ la mise à jour des références normatives ; 
+◗ l’ajout d’une Annexe informative donnant une liste actualisée des dangers significatifs ; ◗ l’actualisation de toutes les exigences de sécurité et de la liste des vérifications associée ; 
+◗ l’Annexe ZA a été actualisée selon les demandes de la Commission européenne sur la  directive Machines (2006/42/CE). 
+◗ Enquête publique sur le projet de norme Pr NF EN 17657 « Équipements pour les abattoirs  – Boxes d’abattage pour bovins – Prescriptions relatives à la sécurité et à la nettoyabilité »  (clôture : 15 janvier 2022).
+8 
+Les modifications portent sur : 
+◗ Ajouter un « s » à prescriptions dans le titre. 
+◗ Le présent document spécifie les exigences de sécurité et d’hygiène relatives à la  conception, à la fabrication et aux informations à fournir aux utilisateurs, pour l’installa tion, l’utilisation et le nettoyage des boxes utilisés pour l’abattage des bovins et équidés  d’une masse comprise entre 100 et 1200 kg. 
+Le présent document donne présomption de conformité à la directive Machines (2006/42/ CE) sous réserve que sa référence soit publiée au Journal officiel de l’Union européenne. Il vise aussi à répondre au règlement (CE) n° 1099/2009 sur la protection des animaux au  moment de leur mise à mort. 
+◗ Remplace la norme homologuée NF U 66-053, d’août 2019. 
+◗ Par rapport au document remplacé, les principales modifications portent sur : ◗ le changement de statut en norme européenne harmonisée ; 
+◗ l’ajout d’une Annexe ZA pour faire le lien avec la réglementation européenne sur la  sécurité machine. 
+◗ L’enquête publique est soumise sur les versions française et anglaise. 
+◗ Si une réunion de dépouillement s’avère nécessaire, celle-ci sera confirmée ultérieure ment par une invitation. 
+◗ Les destinataires du présent projet sont invités à soumettre, avec leurs observations,  une notification des droits de propriété intellectuelle ou industrielle dont ils ont connais sance et à fournir une documentation justificative. 
+◗ Consultation publique de la Commission européenne sur le nouveau règlement concer nant les plastiques recyclés dans les matériaux et objets destinés à entrer en contact avec  des denrées alimentaires (clôture : le 10 janvier 2022). 
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12013-Securite-des aliments-Plastique-recycle-dans-les-emballages-alimentaires-mise-a-jour-des-regles-_en 
+◗ Consultation pour les réinscriptions des révisions des normes pour machines de prépara tion des pâtes alimentaires 
+◗ EN 13289 « séchoirs et refroidisseurs » ; 
+◗ EN 13378 « presses pour pâtes alimentaires » ; 
+◗ EN 13379 « étendeuses, dégarnisseuses-découpeuses, convoyeurs de retour des  cannes et accumulateurs de cannes ». 
+Avec vote positif sauf avis contraire avant le 11 février 2022. 
+◗ Révision de la norme EN ISO 4531 « Émaux vitrifiés – Libération depuis les articles émail lés en contact avec les aliments – Méthode d’essai et limites ». 
+Approbation positive si absence de réponse avant le 22 février 2022. 
+◗ Septembre 2021 
+Extension de 9 mois sur le Pr EN 13954-2 : « Machines pour les produits alimentaires  – Trancheurs de pain – Partie 1 : Prescriptions relatives à la sécurité et à l’hygiène des  trancheurs de pain en libre-service ».
+9 
+◗ Septembre 2021 
+Acceptation de l’ISO 5644 Porcelain Tableware – Specification. Ce document a pour objectif  de déterminer les spécifications, les méthodes d’essai, l’échantillonnage, l’emballage et  l’étiquetage de la vaisselle en porcelaine utilisée pour le service des aliments. Pour rap pel, la France a voté une désapprobation sur ce projet à cause d’un chevauchement avec  le domaine d’application des normes ISO 6486-1 et ISO 7086-1. Le projet a été ensuite  approuvé avec 7 approbations, 1 désapprobation et 7 abstentions. 
+◗ Pour rappel : 
+Le 15e amendement du règlement 10/2011 relatif aux plastiques destinés à être mis  en contact avec des denrées alimentaires a été publié sous le numéro 1245/2020/CE. Cette nouvelle loi est entrée en vigueur le 23 septembre 2020. 
+Les plastiques en contact avec les denrées alimentaires conformes au règlement antérieur  à celui du 23 septembre 2020, et qui ont été mis sur le marché pour la première fois avant  le 23 mars 2021, peuvent continuer à être mis sur le marché jusqu’au 23 septembre 2022  et y rester jusqu’à épuisement des stocks. 
+Hormis la mise à jour de l’Annexe I, avec l’ajout de 3 nouvelles substances et la modification  de la limite de migration du 1,3-phenylenediamine (LMS < 0,002 mg/kg), les principales  modifications concernent l’Annexe II et l’Annexe V. 
+Une partie des nouvelles exigences porte sur : 
+ANNEXE II – RESTRICTIONS DES SUBSTANCES 
+◗ Nouvelle liste pour la migration des métaux qui passe de 9 à 19 éléments métalliques  (tableau 1). 
+◗ 2 limites distinctes pour les amines aromatiques primaires (AAP). 
+◗ ≤ 0,002 mg/kg pour chaque AAP de la liste du règlement REACH 1907/2006 – Annexe XVII  – entrée n° 43. 
+◗ ≤ 0,01 mg/kg pour la somme des autres AAP. 
+ANNEXE V – TEST DE CONFORMITÉ 
+Pour les matériaux et objets réutilisables, les tests de migrations globales ET de migrations  spécifiques doivent être réalisés sur la base de 3 migrations successives. 
+La vérification de la conformité sera basée sur la valeur de la 3e migration M3, mais aussi  sur la stabilité du matériau. Les laboratoires devront mesurer chaque migration (M1, M2,  M3) et vérifier que ces valeurs décroissent : 
+◗ M3 < M2 < M1 ; 
+◗ M3 < limite réglementaire. 
+Cela aura un impact non négligeable sur le prix des analyses et sur les délais de tests (3 fois  plus de solutions à traiter pour les laboratoires). En accord avec les autorités françaises,  aucune conclusion de conformité ne sera donnée pour le produit si la stabilité du matériau  n’a pas été vérifiée (sauf preuve scientifique permettant de démontrer la décroissance de  la migration) pour les migrations globales et spécifiques.
+10 
+Version datée du 30/09/2021 
+◗ Norme annulée en septembre 2021 
+Machines pour les produits alimentaires – Hachoirs – Prescriptions relatives à la sécurité  et à l’hygiène NF EN 12331 remplacée par NF EN 12331:202108 
+◗ Norme annulée en août 2021 
+Acier hors emballage – Acier inoxydable destiné à entrer au contact des denrées, produits  et boissons pour l’alimentation de l’homme et des animaux NF A36-711 remplacée par  NF A36-711:202108 
+◗ Note relative aux matériaux et objets destinés au contact des denrées alimentaires en  plastique et bambou (04/06/2021) 
+https://www.economie.gouv.fr/dgccrf/note-dinformation-relative-aux-materiaux-et-objets destines-au-contact-des-denrees 
+Au cours des dernières années, une forte diffusion de matériaux et objets destinés à entrer  en contact avec des denrées alimentaires (MCDA) en « fibres de bambou » (ou autres fibres  végétales) additionnés de résines plastiques a été constatée sur le marché européen. 
+Ils font par ailleurs fréquemment l’objet d’allégations non justifiées (« 100 % naturel », « en  bambou », etc.). 
+Le bambou ne figure pas sur la liste positive du règlement (UE) n° 10/2011. Il n’a donc  pas fait l’objet d’une évaluation dans le cadre de ce règlement et par conséquent n’est pas  autorisé dans les MCDA en plastique. 
+Les matériaux et objets en plastique fabriqués à partir de bambou, très souvent destinés aux  enfants, ne sont pas conformes aux dispositions réglementaires européennes harmonisées  et ne peuvent pas être mis sur le marché de l’Union européenne. 
+La Commission européenne a rédigé une note sur ce sujet disponible sur son site Internet  au lien suivant : « cs_fcm_meeting-ind_20200623_en » 
+Il a par ailleurs été constaté que l’utilisation de fibres de bambou dans des matières plas tiques a pour effet de déstabiliser le produit fini menant ainsi à des migrations (notam ment en formaldéhyde ou mélamine) supérieures à celles observées dans les produits  plastiques conventionnels (cf. étude 3 de l’Institut fédéral allemand d’évaluation des  risques – BfR). 
+Ces produits non conformes ne peuvent donc pas être mis sur le marché. Ainsi tout opéra teur, fabriquant, important ou commercialisant ces produits est en infraction avec la régle mentation en vigueur. 
+Ces dispositions sont également valables pour les autres substances non évaluées telles les  poudres de bambou, pulpe de sucre de canne, etc. En revanche, elles ne sont pas applicables  aux produits entièrement constitués de bambou ou de fibres naturelles. Seuls les produits  constitués de matières plastiques entrant dans le champ du règlement (UE) n° 10/2011  sont concernés par cette interdiction. 
+Comment la réglementation peut-elle évoluer ? Dans le cas où des opérateurs souhaite raient pouvoir commercialiser légalement ces produits en résines plastiques additionnés  de fibres de bambou, il leur faudra déposer un dossier de demande d’autorisation des fibres  de bambou en tant qu’additif dans les matières plastiques. 
+Les fibres de bambou feront alors l’objet d’une évaluation par l’Autorité européenne de  sécurité sanitaire des aliments (EFSA) conformément à la procédure établie aux articles 8  à 12 du règlement (CE) n° 1935/2004.
+11 
+En cas d’avis positif de l’Autorité, ces substances seront ajoutées à la liste positive du règle ment (UE) n° 10/2011 et pourront alors être utilisées dans les MCDA en matières plastiques. 
+◗ Directives administratives pour la préparation des demandes sur les substances à utiliser  dans les matériaux plastiques pour contact alimentaire (mars 2021) 
+Ce document fournit des orientations aux candidats qui soumettent des demandes sur les  substances à utiliser dans les matériaux et objets en plastique destinés à entrer en contact  avec des denrées alimentaires, qui doivent être évaluées par l’EFSA. Il décrit les exigences  administratives pour la préparation et la soumission en ligne du dossier à l’appui d’une  demande de nouvelle autorisation ou de modification d’une autorisation existante pour  des substances destinées à être utilisées dans la fabrication de matériaux et d’articles en  plastique en contact avec les denrées alimentaires pour les demandes soumises à l’autorité  compétente d’un État membre au 27 mars 2021. 
+Le règlement sur la transparence a modifié la législation alimentaire générale en intro duisant de nouvelles dispositions dans la phase de pré-soumission et dans la procédure  de demande : avis général de pré-soumission, notification des informations relatives aux  études commandées ou réalisées à l’appui d’une demande, divulgation publique de non-sou mission version confidentielle de toutes les informations soumises à l’appui de la candi dature et du processus décisionnel de confidentialité connexe, consultation publique sur  les candidatures soumises. Ces nouvelles exigences, telles que mises en œuvre par les  dispositions pratiques établies par l’EFSA, sont reflétées dans ces orientations. 
+Le guide décrit la procédure et les délais associés pour le traitement des demandes de subs tances à utiliser dans les matériaux plastiques en contact avec les denrées alimentaires,  les différentes possibilités d’interaction avec l’EFSA et les initiatives de soutien disponibles  depuis la préparation de la demande (phase de pré-soumission) jusqu’à l’adoption et la  publication de l’avis scientifique de l’EFSA. 
+https://doi.org/10.2903/sp.efsa.2021.EN-6514 
+◗ Directives administratives pour la préparation des demandes de procédés de recyclage  pour produire des plastiques recyclés destinés à être utilisés pour la fabrication de maté riaux et articles en contact avec les aliments (mars 2021) 
+Le guide décrit la procédure et les délais associés pour le traitement des demandes concer nant les processus de recyclage, les différentes possibilités d’interaction avec l’EFSA et les  initiatives de soutien disponibles depuis la préparation de la demande (phase de pré-sou mission) jusqu’à l’adoption et la publication de l’avis scientifique de l’EFSA. 
+https://doi.org/10.2903/sp.efsa.2021.EN-6512 
+◗ Directives administratives pour la préparation des applications des substances pouvant  être utilisées dans les matériaux et articles actifs et intelligents destinés à entrer en contact  avec les aliments (mars 2021) 
+Ce document fournit des orientations aux candidats qui soumettent des demandes sur des  substances pouvant être utilisées dans des composants de matériaux et objets actifs et intel ligents destinés à entrer en contact avec des denrées alimentaires, qui doivent être évaluées  par l’EFSA. Il décrit les exigences administratives pour la préparation et la soumission en  ligne du dossier à l’appui d’une demande de nouvelle autorisation ou de modification d’une  autorisation existante de substances utilisées dans des composants de matériaux et objets  actifs et intelligents destinés à entrer en contact avec des denrées alimentaires, pour les  demandes soumises à l’autorité compétente d’un État membre à compter du 27 mars 2021. 
+Le guide décrit la procédure et les délais associés pour le traitement des demandes de subs tances actives ou intelligentes présentes dans des matériaux et objets actifs et intelligents des tinés à entrer en contact avec des denrées alimentaires, les différentes possibilités d’interaction 
+12 
+avec l’EFSA et les initiatives de soutien disponibles à partir de la préparation de la demande  (phase de pré-soumission) à l’adoption et à la publication de l’avis scientifique de l’EFSA. 
+https://doi.org/10.2903/sp.efsa.2021.EN-6513 
+◗ Comparaison des évaluations réalisées sur composés d’argent utilisés comme subs tances actives biocides dans les matériaux au contact des aliments (FCM) par l’EFSA et  l’ECHA (document rédigé en février 2020 et publié en mars 2021) 
+En mars 2021, l’ECHA et l’EFSA ont publié un document conjoint afin de comparer les éva luations réalisées sur les composés d’argent utilisés comme substances actives biocides  dans les matériaux en contact avec les denrées alimentaires (FCM – Food Contact Materials). 
+Le document fournit : 
+◗ 1. un aperçu des évaluations réalisées sur ces substances conformément à leur  cadre législatif respectif (règlement sur les produits biocides UE 528/2012 et règlement  CE 1935/2004) ; 
+◗ 2. les conclusions conjointes de l’ECHA et de l’EFSA concernant l’alignement de leur  évaluation scientifique, en tenant compte des cadres réglementaires respectifs. 
+La collaboration entre l’EFSA et l’ECHA est un processus continu qui poursuit son développe ment de façon à aider la Commission à articuler entre eux les différents cadres réglemen taires régissant l’évaluation des risques. 
+◗ Norme annulée en février 2021 
+Machines pour les produits alimentaires – Machines à pousser et machines auxiliaires  – Prescriptions relatives à la sécurité et à l’hygiène 
+NF EN 12463 remplacée par NF EN 12463:202101 
+◗ Norme annulée en février 2021 
+Machines pour les produits alimentaires – Notions fondamentales – Partie 2 : Prescriptions  relatives à l’hygiène 
+NF EN 1672-2+A1 remplacée par NF EN 1672:202012 
+◗ Norme annulée en janvier 2021 
+Machines pour les produits alimentaires – Fours à chariot rotatif – Prescriptions relatives  à la sécurité et à l’hygiène 
+NF EN 1673+A1 remplacée par NF EN 1673:202012 
+◗ Norme annulée en janvier 2021 
+Machines pour les produits alimentaires – Trancheurs – Prescriptions relatives à la sécurité  et à l’hygiène 
+NF EN 1974+A1 remplacée par NF EN 1974:202011 
+◗ Normes annulées en août 2020 
+Acier hors emballage – Produits plats en acier avec revêtements métalliques destinés à entrer  au contact des denrées, produits et boissons pour l’alimentation de l’homme et des animaux : ◗ Partie 3 : Aciers (non inoxydables) revêtus de chrome. 
+NF A36-712-3 (2003-04-01) remplacée par NF A36-712-3:202008. 
+◗ Partie 5 : aciers (non inoxydables) revêtus d’étain. 
+NF A36-712-5 (2003-12-01) remplacée par NF A36-712-5:202008. 
+◗ Partie 6 : aciers (non inoxydables) revêtus d’un alliage d’aluminium et de zinc. F A36-712-6 (2006-04-01) remplacée par NF A36-712-6:202008.
+13 
+Version datée du 31/01/2021 
+◗ Publications de la norme suivante NF EN 1672-2, décembre 2020 
+Machines pour les produits alimentaires – Notions fondamentales – Partie 2 : Prescriptions  relatives à l’hygiène et à la nettoyabilité. 
+La norme européenne EN 1672-2:2020 est mise en application avec le statut de norme  française par publication d’un texte identique. La version anglaise de cette norme fran çaise a été prépubliée dès que la norme européenne a été disponible, en décembre 2020. 
+Le présent document définit les prescriptions générales destinées à éliminer ou à mini miser les risques dus à l’hygiène pour les consommateurs lors de la conception des  machines utilisées pour la préparation et le traitement de produits alimentaires. Il spécifie  aussi les principes de conception pour assurer l’aptitude au nettoyage de ces machines. 
+Il complète les annexes traitant de nettoyabilité et d’hygiène des normes produits de  type C du domaine des machines agroalimentaires. 
+Par rapport au document remplacé, les principales modifications portent sur : ◗ l’actualisation de la liste des termes et définitions ; 
+◗ l’ajout d’une nouvelle méthodologie « Processus itératif de réduction des risques hygié niques » ; 
+◗ la mise à jour de l’ensemble des exigences concernant l’hygiène, et l’ajout de nouvelles  exigences relatives à la nettoyabilité ; 
+◗ la suppression de l’Annexe ZA sur demande de la Commission européenne. ◗ Publications après révision des normes suivantes le 15/07/2020 
+Produits plats (Aciers hors emballage) : 
+➢ NF A36-712-2 : Aciers revêtus de chrome ; 
+➢ NF A36-712-5 : Aciers revêtus d’étain ; 
+➢ NF A36-712-6 : Aciers revêtus d’un alliage d’aluminium et de zinc ; 
+➢ NF A36-713 : Aciers avec revêtement organique. 
+Produits longs : NF A36-715 : Aciers non alliés et alliés, non revêtus et non inoxydables. 
+◗ Publication le 11 août 2020 de l’arrêté du 5 août 2020 relatif aux matériaux et objets  en caoutchouc destinés à entrer en contact avec des denrées alimentaires et aux  sucettes pour nourrissons et enfants en bas-âge (entrée en vigueur le 1er juillet 2021)  JORF n° 0196 du 11/08/2020 https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042225149/ 
+Entrée en vigueur : les dispositions du présent arrêté entrent en vigueur le 1er juillet 2021. Des mesures transitoires sont prévues pour les matériaux et objets en caoutchouc mis  sur le marché pour la première fois avant le 1er juillet 2021 et conformes aux dispositions  en vigueur avant cette date. 
+Notice : cet arrêté remplace et abroge l’arrêté du 9 novembre 1994. Il procède à la mise  à jour des listes des constituants autorisés dans les matériaux et objets en caoutchouc  destinés à entrer en contact avec des denrées alimentaires et des sucettes pour nourris sons et enfants en bas-âge, ainsi que des restrictions et spécifications applicables à ces  constituants, en tenant compte de l’évolution des connaissances scientifiques. Il clarifie  et met à jour certaines règles de vérification de la conformité des matériaux et objets en 
+14 
+caoutchouc. Il prévoit un modèle pour la déclaration de conformité prévue par l’article 6  du décret n° 2007-766 du 10 mai 2007. 
+◗ Règlement (UE) 2020/1245 de la Commission du 2 septembre 2020 portant modification  et rectification du règlement (UE) n° 10/2011 concernant les matériaux et objets en matière  plastique destinés à entrer en contact avec les denrées alimentaires 
+Pour tenir compte de nouveaux avis scientifiques sur les substances susceptibles d’être  utilisées dans les matériaux destinés à entrer en contact avec les denrées alimentaires  (MCDA) ainsi que sur l’utilisation de substances déjà autorisées et pour lever certaines  ambiguïtés pour l’application du règlement. 
+https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32020R1245&from=EN 
+◗ Critères communs pour différents matériaux et objets  : résolution CN/Res(2020)9  sur l’innocuité et la qualité des matériaux et objets pour contact alimentaire adoptée le  7 octobre 2020 lors de la 1385e réunion des Délégués de Ministres (Conseil de l’Europe) 
+Résolution sur exigences applicables à une large gamme de MCDA pour lesquels il n’existe  pas de réglementation spécifique au niveau de l’UE : papier, carton, métaux https://search.coe.int/cm/pages/result_details.aspx?ObjectId=09000016809fe04b 
+◗ Approbation des révisions après enquête CEN sur l’EN 1186-2 et sur l’EN 1186-3 Matériaux et objets en contact avec les denrées alimentaires – Plastiques : Partie 2 : Méthodes d’essai pour la migration globale dans les huiles végétales. Partie 3 : Méthodes d’essai pour la migration globale dans les simulants évaporables. ◗ Proposition de regroupement de l’EN 1186-1 et de l’EN 13130-1 
+EN 13130-1:2004 : « Matériaux et objets en contact avec les denrées alimentaires – Substances  dans les matières plastiques sujettes à des restrictions – Partie 1 : Guide des méthodes d’essai  pour la migration spécifique dans les denrées alimentaires et les simulants alimentaires de  substances contenues dans les matières plastiques, détermination des substances dans les  matières plastiques et choix des conditions d’exposition aux simulants d’aliments ». 
+NF EN 1186-1:2003 : « Matériaux et objets en contact avec les denrées alimentaires – Matière  plastique – Partie 1 : Guide pour le choix des conditions et des méthodes d’essai en matière  de migration globale ». 
+◗ Publication après consultation de la norme NF D21-90 : Articles culinaires – Siphons  culinaires à usage domestique. 
+◗ Publication au niveau français de la norme ISO 24117 : Vaisselle, objets de décoration,  bijouterie et luminaires, faits de verre – Clarté du verre – Classification et méthode d’essai. 
+◗ Résumé des discussions des experts du Working Group sur le contact alimentaire (Food  Contact Materials – FCM) sur l’utilisation et la mise sur le marché de matières plastiques en  contact avec les denrées alimentaires et d’articles contenant du bambou broyé ou d’autres  constituants similaires (23 juin 2020). 
+Le bambou moulu, la farine de bambou et de nombreuses substances similaires, y compris  le maïs, ne sont pas énumérés à l’Annexe I du règlement (UE) n° 10/2011. Ces additifs ne  peuvent pas être considérés comme du bois et nécessiteraient une autorisation spécifique  comme celle qui existe pour les coques de tournesol moulues. Lorsque de tels additifs sont  utilisés dans un polymère, le matériau résultant est un plastique. Par conséquent, les plas 
+tiques FCM contenant de tels additifs non autorisés ne sont pas conformes aux exigences  de composition énoncées dans ce règlement lorsqu’ils sont mis sur le marché de l’UE.
+15 
+En outre, les États membres ont signalé un certain nombre de notifications concernant  la migration de la mélamine et du formaldéhyde au-dessus des limites de migration  spécifiques (LMS). Dans certains cas, l’étiquetage et la publicité de ces FCM peuvent  également être considérés comme trompeurs par les autorités chargées de l’application  de la loi et donc non conformes au règlement. 
+◗ Deux normes sont en cours de révision : Matériaux et objets en contact avec les denrées  alimentaires – Coutellerie et orfèvrerie de table 
+✓ NF EN ISO 8442-1 – Partie 1 : Exigences relatives à la coutellerie utilisée pour la pré paration des denrées alimentaires. 
+✓ NF EN ISO 8442-5 – Partie 5 : Spécification du tranchant et essai de conservation du  tranchant. 
+◗ Proposition d’un nouveau projet sur les emballages à contact alimentaire en acier en se  basant sur la norme NF EN 15284 : Matériaux et articles en contact avec les denrées ali mentaires – Méthode d’essai de la résistance des articles culinaires en céramique, verre,  vitrocéramique ou plastique au chauffage par micro-ondes. 
+◗ Proposition de révision ISO/4531: 2018 : « Émaux vitrifiés – Libération depuis les articles  émaillés en contact avec les aliments – Méthode d’essai et limites ». 
+Version datée du 02/04/2020 
+◗ Changement du lien Internet : https://bfr.ble.de/kse/faces/DBEmpfehlung_en.jspfR 
+5 Réglementations, recommandations  et normes applicables aux MCDA 
+5.1 Exigences applicables aux MCDA 
+Les matériaux et objets destinés à entrer au contact des denrées alimentaires sont réglementés  en Europe par : 
+◗ le règlement cadre (CE) n° 1935/2004 – Exigences générales applicables à tous les MCDA ; 
+◗ des législations spécifiques à certains groupes de matériaux (par exemple, les matériaux  plastiques) ; 
+◗ des directives concernant des substances individuelles ou groupes de substances uti lisés dans la fabrication de matériaux et objets destinés à entrer au contact des denrées  alimentaires ; 
+◗ des législations nationales couvrant des matériaux et objets pour lesquels il n’existe pas  de législation au niveau européen (domaine non harmonisé). 
+NOTE : La réglementation européenne concernant les MCDA utilise deux types d’instruments  juridiques communautaires : le règlement et la directive. Le règlement est directement  applicable dans tous les États membres, sans qu’il soit besoin de le transposer en  droit national. La directive lie l’État membre quant aux résultats à atteindre, nécessite  une transposition dans le cadre juridique national et laisse une marge de manœuvre  quant à la forme et aux moyens de la mise en œuvre.
+16 
+La Commission européenne peut également publier des guides d’application de la législa tion comme, par exemple, le guide général « Union Guidelines on Regulation (EU) n° 10/2011 on  plastic materials and articles intended to come into contact with food ». Le guide est destiné aux  organisations professionnelles européennes et aux autorités compétentes des États membres traitant  de questions concernant l’interprétation et l’application des dispositions contenues dans le règlement  (UE) 10/2011. Mais comme indiqué dans le document d’orientation : « Ce document ne peut pas fournir  une interprétation officielle du droit de l’Union européenne pour des situations spécifiques. » Il ne fournit  également pas de conseils juridiques sur les questions de droit national. 
+Les exigences définies dans les législations nationales doivent être respectées dans les pays  correspondants. Le principe de reconnaissance mutuelle et le règlement (UE) 2019/515 qui établit  les procédures relatives à l’application de ce principe peuvent néanmoins limiter l’applicabilité des  règles techniques définies dans les législations nationales pour tout produit légalement importé,  fabriqué et commercialisé dans un État membre. 
+5.2 Recommandations et normes concernant les MCDA 
+Le Conseil de l’Europe a publié différentes résolutions relatives aux MCDA. Dans ces résolutions,  il est recommandé que les États membres adoptent les mesures législatives et autres selon les  principes et les lignes directrices énoncés dans les annexes techniques ou guides associés aux  résolutions. Ces recommandations ne doivent pas empêcher les gouvernements de maintenir ou  d’adopter des mesures nationales qui mettent en œuvre des règles et des réglementations plus  strictes. 
+NOTE : Un guide technique tel que celui relatif aux métaux peut être utilisé comme une  base pour une législation ou des recommandations nationales et/ou pour prouver la  conformité avec l’article 3 (principe d’inertie) du règlement (CE) n° 1935/2004. Il est à  noter que les résolutions du Conseil de l’Europe sur les plastiques ont été utilisées par la  Commission européenne comme une base pour le développement de la législation relative  aux matières plastiques en contact avec les aliments. 
+Les autorités nationales ou des organismes associés ont également publié des recommanda tions (fiches DGCCRF en France, recommandations Bfr en Allemagne…). 
+NOTE : Les exigences spécifiques (ne provenant pas de législations européennes ou natio nales) définies dans ces recommandations ne sont donc pas officiellement juridique ment contraignantes. Néanmoins, il est souvent plus judicieux de les respecter. En  France, par exemple, les fiches de la DGCCRF sont utilisées par les autorités natio nales pour contrôler la conformité d’un matériau ou d’un objet avec le règlement (CE)  n° 1935/2004. 
+Des normes européennes et nationales relatives à des groupes spécifiques de MCDA ou à des  méthodes d’essai ont également été publiées. 
+NOTE : Une norme est par nature d’application volontaire, à moins qu’une réglementation ne  rende d’application obligatoire tout ou partie d’une norme, mais, référencée dans un  contrat, elle s’impose aux parties. 
+NOTE : Même s’il n’est pas légalement obligatoire de satisfaire les exigences définies dans  les recommandations et normes européennes ou nationales, elles sont opposables  en droit. Ces recommandations et normes peuvent fournir une aide précieuse pour  déterminer les moyens de vérifier et de prouver la conformité avec le règlement (CE)  n° 1935/2004.
+17 
+6 Règlement cadre (CE) n° 1935/2004 
+Les matériaux destinés à entrer au contact avec des denrées alimentaires doivent, dans tous  les pays de l’Union européenne, respecter les exigences générales et les principes de conformité  définis dans le règlement2 cadre (CE) n° 1935/2004. 
+6.1 Domaine d’application – Article 1 
+Le domaine d’application, défini à l’article 1 du règlement cadre, inclut : 
+◗ tous les éléments constituant la zone3 alimentaire d’un matériel ou d’un équipement ; 
+◗ mais aussi tous les éléments dont on peut raisonnablement prévoir qu’ils transféreront  leurs constituants aux denrées alimentaires dans les conditions normales ou prévisibles (cela peut inclure les conditions prévisibles de mauvaise utilisation) de leur emploi (contact  indirect). 
+Une analyse de risques peut s’avérer nécessaire pour déterminer les zones potentielles de  contact indirect. 
+Par conséquent, les exigences d’alimentarité ne s’appliquent pas aux zones d’éclaboussures  et aux zones non alimentaires d’une machine ou d’un équipement. 
+Par denrées alimentaires, on entend les denrées au sens de l’article 2 du règlement (CE)  n° 178/2002. Les gaz (CO2, N2, 02, Ar, N2O, He, H2, SO2) utilisés par les industries agroalimentaires  appartiennent à la liste de l’Union des additifs alimentaires, Annexe II du règlement (CE) n° 1333/2008  notamment modifiée par le règlement (UE) n° 1129/2011. Ces gaz sont donc à considérer comme des  aliments et les matériaux au contact de ces gaz tombent dans le champ d’application du règlement  cadre. 
+6.2 Bonnes pratiques de fabrication (BPF) – Article 3 
+Les matériaux et objets doivent être fabriqués conformément aux bonnes pratiques de fabrica tion. Dans le but d’assurer l’uniformité des bonnes pratiques de fabrication, le règlement « Bonnes  Pratiques » (CE) n° 2023/2006 du 22 décembre 2006, applicable à partir du 1er août 2008, impose un  système d’assurance qualité et le contrôle de la qualité avec une documentation appropriée portant  sur les informations relatives aux différentes opérations de fabrication effectuées qui présentent  un intérêt du point de vue de la conformité et de la sécurité du matériau ou de l’objet fini et sur les  résultats du système de contrôle de la qualité. 
+6.3 Principe d’inertie – Articles 3 et 4 
+Dans les conditions normales ou prévisibles de leur emploi, les matériaux ne doivent pas céder  aux denrées alimentaires des constituants en une quantité susceptible : 
+◗ de présenter un danger pour la santé humaine ; 
+◗ ou d’entraîner une modification inacceptable de la composition des denrées ; ◗ ou d’entraîner une altération des caractères organoleptiques de celles-ci. 
+2. La réglementation européenne concernant les MCDA utilise deux types d’instruments juridiques communautaires : le règlement et la  directive. Le règlement est directement applicable dans tous les États membres, sans qu’il soit besoin de le transposer en droit national. La directive lie l’État membre quant aux résultats à atteindre, nécessite une transposition dans le cadre juridique national et laisse une  marge de manœuvre quant à la forme et aux moyens de la mise en œuvre. 
+3. Les différentes zones (alimentaire, d’éclaboussure, non alimentaire) d’un équipement sont définies par la norme EN 1672-2.
+18 
+Comme spécifié dans l’article 4 du règlement cadre, les matériaux actifs et intelligents peuvent  modifier (de manière acceptable) la composition ou les caractères organoleptiques des denrées  alimentaires à condition que les modifications soient conformes aux dispositions communautaires  qui leur sont applicables. 
+6.4 Mesures spécifiques – Article 5 
+Pour les groupes de matériaux et d’objets figurant à l’Annexe I du règlement cadre et, le cas  échéant, les combinaisons de ces matériaux et objets ou les matériaux et objets recyclés utilisés dans  la fabrication de ces matériaux et objets, des mesures spécifiques peuvent être adoptées et comporter : 
+◗ des listes positives de substances autorisées ; 
+◗ des critères de pureté applicables à certaines de ces substances ; 
+◗ des conditions particulières d’emploi ; 
+◗ des limites de migration spécifiques ; 
+◗ une limite de migration globale ; 
+◗ des mesures concernant le contact buccal. 
+Les mesures spécifiques de l’UE concernent principalement les matériaux suivants : ◗ matières plastiques [règlement (UE) n° 10/2011 du 14 janvier 2011] ; 
+◗ matériaux actifs et intelligents [règlement (CE) n° 450/2009 du 29 mai 2009] ; 
+◗ céramiques [directive 84/500/CE du 15 octobre 1984] mais sans inclure les céramiques  techniques susceptibles d’être utilisées dans les machines et équipements de l’industrie  agroalimentaire comme les garnitures mécaniques en carbure de silicium. 
+Des mesures spécifiques concernent également les matières plastiques recyclées et la pellicule  de cellulose régénérée. 
+6.5 Dispositions nationales – Article 6 
+En l’absence de mesures spécifiques de l’Union européenne, le règlement cadre n’empêche  pas les États membres de maintenir ou d’adopter des dispositions nationales sous réserve qu’elles  respectent le principe de reconnaissance mutuelle. 
+Ce principe découle de l’arrêt « Cassis de Dijon » du 20 février 1979 (affaire 120/78) de la Cour  de justice de la Communauté européenne (CJCE) et des arrêts qui ont suivi : tout produit légalement  fabriqué et commercialisé dans un État membre doit être, en principe, admis sur le marché de  tout autre État membre. Le règlement (UE) 2019/515 établit des procédures pour son application. 
+Le règlement (CE) n° 764/20084, applicable depuis le 13 mai 2009, a introduit une modification  fondamentale dans l’application du principe de reconnaissance mutuelle, car ce n’est plus à l’im portateur de prouver la conformité d’un produit commercialisé légalement dans un autre État  membre à des dispositions nationales particulières, mais c’est à l’État membre qui veut, sur la  base d’une règle technique5 : 
+◗ prendre des mesures visant à interdire la mise sur le marché du produit ; ◗ imposer une modification du produit, des essais supplémentaires ou le retrait du produit ; 
+4. Le règlement (CE) n° 764/2008 a été remplacé par le règlement (UE) 2019/515. 
+5. Les procédures d’autorisation préalables ne sont pas des règles techniques au sens du règlement, ce qui signifie qu’un opérateur d’un  autre EM ne pourra pas se prévaloir du règlement (UE) 2019/515 pour passer outre la procédure d’autorisation préalable qui aurait été  développée par un autre EM. Bien évidemment, ces procédures doivent être conformes à la jurisprudence de la CJCE, et être proportionnées.
+19 
+◗ d’apporter la preuve, dans le cadre d’une procédure contradictoire, attestant que la  décision prévue est justifiée par l’une des raisons d’intérêt public (protection de la santé) visées à l’article 30 du traité ou par référence à une autre raison impérieuse d’intérêt  public ; la décision prévue est conforme au but d’atteindre l’objectif visé et n’excède pas  ce qui est nécessaire pour ce faire. 
+Les mesures nationales les plus récentes intègrent généralement une clause de reconnaissance  mutuelle : arrêté « caoutchouc » du 5 août 2020, décret italien du 27 octobre 2009 modifiant la liste  positive d’aciers inoxydables autorisés au contact des denrées alimentaires… 
+Les mesures spécifiques nationales françaises concernent les matériaux suivants : ◗ caoutchouc [arrêté du 5 août 2020] ; 
+◗ élastomère de silicone [arrêté du 25 novembre 1992] ; 
+◗ aluminium [arrêté du 27 août 1987] ; 
+◗ acier inoxydable [arrêté du 13 janvier 1976]. 
+D’autres mesures spécifiques concernant les matériaux au contact sont en vigueur : 
+◗ arrêté du 28 juin 1912 [coloration, conservation et emballage des denrées alimentaires  et des boissons] ; 
+◗ et arrêté du 15 novembre 1945 [instruments et récipients de mesure]. 
+Des mesures connexes relatives aux produits de nettoyage (cf. Annexe 2/Autres textes français/ produits de nettoyage) et au traitement par rayonnements ionisants des matériaux et objets mis ou  destinés à être mis au contact des denrées, produits et boissons destinés à l’alimentation (arrêté  du 12 août 1986) sont également en vigueur. 
+NOTE : Pour les différents groupes de matières listées à l’Annexe I du règlement cadre, la DG  SANTÉ met à disposition sur son site web (cf. Annexe 3) un résumé et une liste détail lée des mesures spécifiques nationales existantes dans les différents pays de l’UE. 
+6.6 Règles d’étiquetage6 – Article 15 
+Les matériaux et objets non encore mis en contact avec des denrées alimentaires lors de leur  commercialisation sont accompagnés des indications suivantes : 
+◗ a) la mention « convient pour aliments » ou une mention relative à leur emploi ou le symbole  prévu par le règlement – Les objets qui, de par leurs caractéristiques, sont manifestement destinés  à entrer en contact avec des denrées alimentaires sont dispensés de cette obligation. 
+La mention ou le symbole ont pour objectif d’indiquer qu’un objet qui n’est pas manifestement  destiné au contact alimentaire l’est bien à cet effet ; ils ne signifient pas automatiquement un  usage possible du matériau ou de l’objet dans toutes les conditions de contact (durée, tempé rature, denrée), voir le (b) ci-dessous. Leur apposition est réservée aux matériaux et objets  conformes à l’article 3 du règlement cadre (et à l’article 4 lorsqu’il s’applique), et aux mesures  spécifiques communautaires ou, en l’absence de celles-ci, aux dispositions nationales appli cables à ces matériaux et objets. 
+◗ b) s’il y a lieu, des instructions particulières qui doivent être respectées pour un emploi  sûr et approprié. Par exemple : la température maximale d’utilisation, les conditions d’utili sation au four classique ou au four à micro-ondes, l’exclusion de l’usage avec certains types  d’aliments, des préconisations de nettoyage avant la première utilisation, etc. 
+6. Le texte apparaissant en italique provient de la fiche générale de la DGCCRF et a pour but de clarifier les exigences définies à l’article 15  du règlement (cadre).
+20 
+La présence d’instructions d’usage multiples (par exemple indiquées à la fois sur l’emballage  et l’objet), qui se révèlent contraires ou antagonistes, doit être évitée. Elle est susceptible d’in duire le consommateur en erreur sur l’aptitude à l’emploi des matériaux et objets, en particulier  lorsque cela peut entraîner des conditions d’usage différentes. En cas de confusion, il y a alors  lieu de considérer les conditions d’usage les plus sévères – et au moins aussi sévères que les  conditions réelles de contact – pour la vérification de la conformité de ces matériaux et objets. 
+◗ c) le nom (ou la raison sociale) et l’adresse (ou le siège social) du fabricant ou du trans formateur ou d’un vendeur établi dans un État membre de l’Union européenne ; 
+◗ d) un étiquetage approprié ou une identification permettant d’assurer la traçabilité ; 
+◗ e) dans le cas des matériaux et objets actifs et intelligents des informations ou les  emplois autorisés, ainsi que d’autres informations pertinentes, telles que le nom et la  quantité de substances libérées par le constituant actif, permettant aux exploitants du  secteur alimentaire de respecter la législation alimentaire en vigueur. 
+Les informations prévues aux points 1 à 5 doivent figurer en caractères apparents, être clairement  lisibles et indélébiles. Le commerce de détail est interdit si les informations prévues aux points 1, 2 et 5 ne  figurent pas dans une langue intelligible. 
+Lors de la vente au consommateur final, les informations précédentes doivent figurer : ◗ a) soit sur les matériaux et objets ou sur leurs emballages ; 
+◗ b) soit sur des étiquettes apposées sur les matériaux et objets ou sur leurs emballages ; 
+◗ c) soit sur un écriteau se trouvant à proximité immédiate des matériaux et objets et  bien en vue des acheteurs ; toutefois, dans le cas des informations visées au paragraphe 1  point c) de l’article 15 du règlement cadre, cette possibilité n’est offerte que si, pour des  raisons techniques, ces informations ou une étiquette les comportant ne peuvent pas être  apposées sur lesdits matériaux et objets ni au stade de la fabrication ni au stade de la  commercialisation. Cette possibilité reste exceptionnelle au vu des nombreuses possibili 
+tés d’emballage des objets (emballage-coque, cavalier, étui, pochette, étiquette, crochet,  sac, etc.). 
+Aux stades de commercialisation autres que la vente au consommateur final, les informations  précitées doivent figurer : 
+◗ a) sur les documents d’accompagnement ; 
+◗ b) ou sur les étiquettes ou emballages ; 
+◗ c) ou sur les matériaux et objets eux-mêmes. 
+Les grossistes et magasins de revente aux professionnels qui vendent aussi des produits aux  consommateurs doivent assumer leurs deux rôles et sont soumis aux obligations de marquage les plus  exigeantes. 
+6.7 Déclaration de conformité – Article 16 
+Lorsqu’une mesure spécifique le prévoit, les matériaux et objets destinés à être mis au contact  avec des denrées alimentaires doivent, aux stades de commercialisation autres que la vente au  consommateur final, être accompagnés d’un document attestant de leur conformité, notamment  au principe d’inertie prévu à l’article 3, mais aussi aux règles définies dans les mesures spécifiques  qui leur sont applicables
+21 
+Une documentation appropriée doit être disponible pour démontrer cette conformité. Cette  documentation est mise à la disposition des autorités compétentes à la demande de celles-ci. 
+L’objectif de cette déclaration est de renforcer la responsabilité et la coordination entre les  différents opérateurs afin d’assurer la conformité des matériaux et objets par : la déclaration de la  conformité aux textes réglementaires applicables, la communication d’informations aux différents  stades afin de leur permettre d’établir ou de vérifier la conformité des matériaux et objets (notam 
+ment les informations relatives aux substances) et afin d’assurer un usage sûr et approprié de ces  matériaux et objets (en particulier les informations suivantes : durée et température de contact,  type de denrée alimentaire). 
+La déclaration de la conformité au règlement cadre ne couvre pas que les aspects relatifs à la  sécurité sanitaire (point a) du paragraphe 1 de l’article 3), mais indique aussi que : 
+◗ l’entreprise met en œuvre les bonnes pratiques de fabrication prévues par le règlement  cadre et le règlement relatif aux bonnes pratiques de fabrication ; 
+◗ l’entreprise met en œuvre un système de traçabilité ; 
+◗ le matériau ou l’article n’entraîne pas une modification inacceptable de la composition  de la denrée ou une altération des propriétés organoleptiques de celle-ci. 
+◗ La déclaration de conformité est établie de telle sorte que les articles qu’elle couvre  soient facilement identifiables (description des articles, informations de traçabilité, réfé rences, photographie, etc.). 
+En l’absence de mesures spécifiques, le présent règlement n’empêche pas les États membres  de maintenir ou d’adopter des dispositions nationales en ce qui concerne les déclarations de confor mité relatives aux matériaux et objets. Le décret n° 2008-1469 du 30 décembre 2008 modifie le  décret 2007-766 du 10 mai 2007 en étendant, en France, l’obligation d’une déclaration de conformité  aux dispositions des articles 3 et 4 du règlement (CE) 1935/2004 à tous matériaux destinés à entrer  en contact avec des denrées alimentaires. 
+Pour faciliter la rédaction d’une déclaration de conformité à la réglementation relative aux  matériaux des matériels et équipements au contact des denrées alimentaires, selon l’article 16  du règlement (CE) n° 1935/2004, l’ANIA, EHEDG-France et FIMAlimentaire ont développé un modèle de  déclaration de conformité Dernière version datée du 15 juillet 2019 qui peut être téléchargée depuis  le site de l’ANIA. L’Annexe 1 détaille la manière d’utiliser ce modèle. 
+6.8 Traçabilité – Article 17 
+Pour autant que la technologie le permette, les exploitants d’entreprises disposent de systèmes  et de procédures permettant d’identifier les entreprises qui ont fourni ou auxquelles ont été fournis  les matériaux et objets et, le cas échéant, les substances ou produits couverts par le règlement  cadre et ses mesures d’application, utilisés pour leur fabrication. Cette information est mise à la  disposition des autorités compétentes à la demande de celles-ci. 
+Les matériaux et objets mis sur le marché de l’Union européenne sont identifiables par un  système approprié permettant leur traçabilité par le biais d’un étiquetage ou d’une documentation  ou d’informations pertinentes. 
+Les mentions d’étiquetage telles que prévues à l’article 15 pour les matériaux non encore en  contact avec les denrées alimentaires comportent un étiquetage approprié ou une identification  permettant la traçabilité du matériau ou de l’objet.
+22 
+7 Mesures spécifiques 
+7.1 Matières plastiques (réglementation harmonisée) 7.1.1 Règlement (UE) n° 10/2011 
+Le règlement (UE) n° 10/2011 (PIM) du 14 janvier 2011, applicable à compter du 1er mai 20117,  concerne : 
+◗ a) les matériaux et objets ainsi que leurs éléments constitués exclusivement de matière  plastique ; 
+◗ b) les matériaux et objets en matière plastique multicouches dont les différentes couches  sont reliées entre elles à l’aide de colle ou par tout autre moyen ; 
+◗ c) les matériaux et objets visés aux points a) et b) imprimés et/ou enduits d’un revêtement ; 
+◗ d) les couches en matière plastique ou revêtements en matière plastique formant des joints  de capsules et de fermetures, qui composent avec ces capsules et fermetures un ensemble de  deux ou plusieurs couches de matériaux de nature différente ; 
+◗ e) les couches en matière plastique de matériaux et d’objets multimatériaux multicouches. 
+Les matériaux multicouches, matériaux et objets composés de deux ou plusieurs couches de  matériaux de nature différente, dont au moins une est en matière plastique, constituent une exten sion du champ d’application par rapport à celui de l’ancienne directive 2002/72/CE. Une couche en  matière plastique qui n’est pas en contact direct avec les denrées alimentaires et qui en est séparée  par une barrière fonctionnelle peut ne pas respecter les restrictions et prescriptions prévues dans  le règlement à l’exception de celles relatives au chlorure de vinyle monomère et peut contenir des  substances autres que celles figurant sur la liste de l’Union, à condition que ces substances : 
+◗ ne soient pas classées comme « mutagènes », « cancérogènes » ou « toxiques pour la  reproduction » ; 
+◗ et ne se présentent pas sous une forme nanométrique (interdiction des nanomatériaux). 
+Les substances utilisées intentionnellement dans la fabrication des matériaux et objets en  matière plastique doivent figurer sur la liste de l’Union des substances autorisées. La liste de  l’Union, tableau 1 de l’Annexe 1 du présent règlement, comprend : 
+◗ a) les monomères et autres substances de départ ; 
+◗ b) les additifs8, à l’exclusion des colorants9 ; 
+◗ c) les auxiliaires de production de polymères10**, à l’exclusion des solvants ; ◗ d) les macromolécules obtenues par fermentation microbienne. 
+Pour chaque substance, il y est précisé si elle peut être utilisée comme additif ou auxiliaire de  production des polymères (colonne 5 du tableau), comme monomère ou autre substance de départ ou  
+7. Les directives 80/766/CEE, 81/432/CEE et 2002/72/CE sont abrogées à compter du 1er mai 2011. 
+8. La liste d’additifs n’est pas encore finalisée ; celle des auxiliaires de production est non exhaustive. La liste provisoire d’additifs, publiée  par la Commission en 2008 et mise à jour régulièrement, est en cours d’évaluation par l’Autorité européenne de sécurité des aliments  (EFSA). Conformément à la législation nationale, un additif appartenant à la liste provisoire peut continuer à être utilisé jusqu’à ce que  l’EFSA ait statué sur son cas. 
+9. Des colorants et des solvants peuvent être utilisés conformément à la législation nationale. 
+10. Conformément à la législation nationale, les auxiliaires de production de polymères ne figurant pas sur la liste de l’Union peuvent,  par dérogation, être utilisés.
+23 
+macromolécule obtenue par fermentation microbienne (colonne 6), si les résultats de migration peuvent  être corrigés par le facteur de réduction lié à la teneur en matières grasses (FRMTG) (colonne 7), les  éventuelles limites de migration spécifiques applicables à la substance (colonne 8), les éventuelles réfé rences à un groupe de substances soumis à des restrictions particulières (colonne 9), les éventuelles  autres restrictions (colonne 10) et les notes relatives au contrôle de conformité (colonne 11). 
+Certaines substances ne figurant pas sur la liste de l’Union mais énumérées article 6 – comme  certains sels, des substances polymériques naturelles ou synthétiques utilisées comme additifs  et les auxiliaires de polymérisation – peuvent, par dérogation, être utilisées. 
+7.1.2 Guides d’application du règlement (UE) n° 10/2011 
+Un guide d’application générale et un guide sur la déclaration de conformité ont été publiés. Le Guide sur les essais est finalisé, mais la Commission vérifie qu’il n’interprète pas le règlement  (UE) n° 10/2011 et sa publication pourrait donc être bloquée pour des raisons juridiques. 
+Le règlement (UE) n° 321/2011 du 1er avril 2011 modifie le règlement PIM en interdisant l’utilisa tion du bisphénol A dans les biberons en polycarbonate pour nourrissons. Les règlements (UE)  n° 1282/2011, 1183/2012, 202/2014, 2015/174 modifient la liste de l’Union. Le règlement (UE)  n° 2016/416 du 24 août 2016 clarifie les conditions d’essais, met à jour les LMS pour les métaux  (LMS Al et Zn applicables à compter du 14 septembre 2018), supprime la LMS générique de 60 mg/kg  (automatiquement vérifié si la limite de migration globale de 60 mg/kg est respectée) et spécifie une  limite standard de détection de 0,01 mg/kg sauf si une autre limite est indiquée. 
+7.1.3 Essais de migration 
+Les simulants de denrées alimentaires et l’affectation générale et spécifique des simulants aux  denrées alimentaires sont définis Annexe III du règlement (UE) n° 10/2011. 
+Simulant A 
+	Éthanol à 10 % (v/v)11 
+	Les simulants A, B et C sont affectés aux denrées  alimentaires à caractère hydrophile qui peuvent  extraire des substances hydrophiles. Le simulant B  est utilisé pour les denrées alimentaires dont le pH  est inférieur à 4,5. Le simulant C est utilisé pour  les denrées alimentaires alcooliques ayant une teneur  en alcool de 20 % maximum ainsi que les denrées  alimentaires contenant une quantité significative  d’ingrédients organiques qui les rendent davantage  lipophiles.
+	Simulant B 
+	Acide acétique à 3 % (m/v)
+	Simulant C 
+	Éthanol à 20 % (v/v)
+	Simulant D1 
+	Éthanol à 50 % (v/v) 
+	Les simulants D1 et D2 sont affectés aux denrées  alimentaires à caractère lipophile qui peuvent extraire  des substances lipophiles. Le simulant D1 est utilisé  pour les denrées alimentaires alcooliques ayant  une teneur en alcool supérieure à 20 % et pour l’huile  dans les émulsions aqueuses. Le simulant D2 est  utilisé pour les denrées alimentaires contenant  des matières grasses libres en surface.
+	Simulant D2 
+	Huile végétale
+	Simulant E 
+	Oxyde de poly(2,6-diphényl-p-phénylène), taille des particules 60-80 mesh, taille  des pores 200 nm. 
+Le simulant E est affecté aux essais de migration spécifique dans des denrées  alimentaires sèches.
+	a) Il peut s’agir de n’importe quelle huile végétale présentant une répartition des acides gras définie  tableau 1 de l’Annexe III.
+	
+
+
+
+11. L’eau distillée reste utilisable pour simuler le contact avec l’eau.
+24 
+Le contrôle de la conformité aux limites de migration spécifiques et globales s’effectue selon  les règles exposées dans l’Annexe V du règlement (UE) n° 10/2011. À partir du 1er janvier 2016, les  dispositions transitoires prévues article 22 ne sont plus utilisables. 
+Détermination des conditions d’essais en fonction des conditions de contact
+	Durée 
+	
+
+	Température
+	de contacta) 
+	d’essai 
+	
+
+	de contacta) 
+	d’essai
+	t ≤ 5 min 
+	5 min 
+	
+
+	T ≤ 5 °C 
+	5 °C
+	5 min < t ≤ 0,5 h 
+	0,5 h 
+	
+
+	5 °C < T ≤ 20 °C 
+	20 °C
+	0,5 h < t ≤ 1 h 
+	1 h 
+	
+
+	20 °C < T ≤ 40 °C 
+	40 °C
+	1 h < t ≤ 2 h 
+	2 h 
+	
+
+	40 °C < T ≤ 70 °C 
+	70 °C
+	2 h < t ≤ 6 h 
+	6 h 
+	
+
+	70 °C < T ≤ 100 °C 
+	100 °C ou température de reflux
+	6 h < t ≤ 24 h 
+	24 h 
+	
+
+	100 °C < T ≤ 121 °C 
+	121 °C (*)
+	1 j < t ≤ 3 j 
+	3 j 
+	
+
+	121 °C < T ≤ 130 °C 
+	130 °C (*)
+	3 j < t ≤ 30 j 
+	10 j 
+	
+
+	130 °C < T ≤ 150 °C 
+	150 °C (*)
+	> 30 j 
+	b) 
+	
+
+	150 °C < T ≤ 175 °C 
+	175 °C (*)
+	En rouge, nouvelles conditions d’essais  définis par le règlement (UE) 2016/1416
+	
+
+	175 °C < T ≤ 200 °C 
+	200 °C (*)
+	
+
+	T > 200 °C 
+	225 °C (*)
+	a) Durée et température de contact dans les pires conditions d’emploi prévisibles. b) Conditions spécifiques pour les durées de contact > 30 j (cf. Annexe V, 2.1.4 et ci-dessous). (*) Cette température n’est utilisée que pour les simulants D2 et E. Pour les applications chauffées sous pression,  l’essai de migration peut être réalisé sous pression à la température appropriée. Pour les simulants A, B, C ou D1,  l’essai peut être remplacé par un essai à 100 °C ou à la température de reflux pendant une durée quadruple de celle  choisie conformément aux conditions de durée (colonnes 1 et 2 du tableau).
+	Conditions spécifiques applicables aux durées de contact supérieures à 30 j
+	Domaine couvert 
+	Conditions d’essai
+	Toutes durées d’entreposage à l’état congelé 
+	10 j à 20 °C
+	+ Entreposage à l’état réfrigéré, y compris chauffage à 70 °C pendant 2 h  au maximum ou 100 °C pendant 15 min au maximum. 
+	10 j à 40 °C
+	+ Entreposage jusqu’à 6 mois à température ambiante 
+	10 j à 50 °C
+	+ Entreposage de plus de 6 mois à température ambiante ou inférieure 
+	10 j à 60 °C
+	
+
+
+
+Les méthodes d’essai de migration sont définies par les normes EN 1186 (1 à 15) pour la migra tion globale et EN 13130 (1 à 8) ainsi que CEN/TS 13130 (9 à 28) pour les migrations spécifiques. 
+Dispositions transitoires – Depuis le 14 septembre 2017, les matériaux et objets en matière plastique  se conformant au règlement (UE) n° 10/2011 tel qu’applicable avant l’entrée en vigueur du règlement  (UE) 2016/1416 ne peuvent plus être commercialisés. Les dispositions du règlement (UE) 2016/1416  relatives aux limites de migration spécifique de l’aluminium et du zinc ainsi que celles relatives à  l’affectation des simulants de denrées alimentaires s’appliquent à compter du 14 septembre 2018. 
+7.1.4 Matières plastiques recyclées 
+Le règlement (CE) n° 282/200812 définit les possibilités d’utilisation de matières plastiques  recyclées basées sur une autorisation du procédé de recyclage à demander à l’EFSA. Le règle ment ne s’applique pas aux matériaux et objets en plastique recyclé fabriqués à partir de chutes  
+12. Le règlement (CE) n° 282/2008 modifie le règlement « Bonnes pratiques » (CE) n° 2023/2006.
+25 
+de production et/ou de débris de transformation recyclés sur le site de fabrication ou utilisés dans  un autre site (Article 1, alinéa b)). 
+7.1.5 Réglementation relative à des substances 
+Le règlement (CE) n° 1895/2005 limite l’utilisation de certains dérivés époxydiques (BADGE,  BFDGE, NOGE). 
+NOTE : Ce règlement n’est pas spécifique aux plastiques. Ces substances sont également  trouvées dans les colles. 
+7.2 Autres domaines à réglementation harmonisée 7.2.1 Matériaux actifs et intelligents 
+Règlement (CE) n° 450/2009 
+7.2.2 Cellulose régénérée 
+Directive 2007/42/CE 
+Consolidation des directives 93/10/CEE et de ses modifications : 93/11/CEE et 2004/14/CE. Transcrite en droit français par l’arrêté du 4 novembre 1993 modifié par l’arrêté du 21 octobre 2004. 7.2.3 Céramiques13 
+Directive 84/500/CEE (extraction Pb, Cd) modifiée par la directive 2005/31/CE. 
+Céramiques de type faïence, terre cuite, etc. Pour les céramiques techniques (SiC, Si3N4…), dans la  mesure où elles ne renferment ni plomb ni cadmium, il n’y a pas d’obligation de vérifier l’extraction de  ces éléments, l’opérateur peut sous sa responsabilité délivrer une déclaration de conformité quant à  l’absence de ces deux éléments. (Groupe de réflexion de la DGCCRF, 22 juin 2009). Transcrite en droit  français par l’arrêté du 7 novembre 1985 modifié par l’arrêté du 23 mai 2006. 
+
+
+	
+
+	Catégorie I (µg/dm2) 
+	Catégorie II (µg/l) 
+	Catégorie III (µg/l)
+	LLS Pb
+	Dir. 84/500/CEE 
+	800 
+	4000 
+	1500
+	Projet (2012) 
+	2 
+	10 
+	3,8
+	LLS Cd
+	Dir. 84/500/CEE 
+	70 
+	300 
+	100
+	Projet (2012) 
+	1 
+	5 
+	1,9
+	Catégorie I : Objets non remplissables et objets remplissables dont la profondeur interne  mesurée entre le point le plus bas et le plan horizontal passant par le bol supérieur est inférieure  ou égale à 25 mm. 
+Catégorie II : Tous autres objets remplissables. 
+Catégorie III : Ustensiles de cuisson, emballages et récipients de stockage ayant une capacité  supérieure à 3 litres.
+	Condition d’essais (directive 84/500/CEE et projet) : Acide acétique à 4 % (v/v) ; 22 ± 2 °C ;  24 h ± 0H30. 
+Le projet de règlement inclut également le buvant.
+	
+
+
+
+13. Un projet de nouveau règlement daté de 2012 prévoit une diminution des limites d’extraction et l’inclusion du buvant, mais la publica tion de ce nouveau règlement a été bloquée par la Commission européenne pour ne pas mettre en difficulté les producteurs artisanaux. D’après la roadmap (débutée fin 2018), la Commission a décidé de lancer une nouvelle étude d’impact qui devrait se terminer en 2019 (à fin  décembre 2020, la consultation publique n’a toujours pas eu lieu). À plus longue échéance, il était prévu de définir des limites d’extraction  pour d’autres ions métalliques, notamment le cobalt, et d’étendre le champ d’application du règlement aux verres et émaux. Les métaux  émaillés ne seraient apparemment pas couverts ni les céramiques techniques ou les revêtements céramiques.
+26 
+Dans les recommandations de la DGCCRF (fiche MCDA n° 2 – V01 – 01/05/2016) Aptitude au  contact alimentaire des matériaux inorganiques (hors métaux et alliages) destinés à entrer en contact  avec des denrées alimentaires), la DGCCRF : 
+◗ reprend les mêmes valeurs de libération spécifique (LLS) que la directive 81/500/CEE  pour le plomb et le cadmium en fonction des catégories d’articles ; 
+◗ définit une nouvelle catégorie, contact buccal : (concerne tout objet décoré extérieurement  sur 20 mm de largeur mesurée à partir du bord extérieur) et spécifie une LLS de 2 mg/article  pour Pb et 0,2 mg/article pour Cd ; 
+◗ impose en sus des LLS de 1 mg/kg pour l’aluminium, de 0,2 mg/kg pour le cobalt et  libération non détectable pour l’arsenic (limite de détection au plus égale à 0,002 mg/kg). 
+Ces exigences sont applicables aux articles en céramique, mais également aux articles en verre,  en cristal, en vitrocéramique et aux objets émaillés. 
+7.3 Classes de matériaux avec réglementations  
+non harmonisées (ou partiellement) 
+7.3.1 Élastomères et caoutchoucs 
+UE : directive 93/11/CEE (ne concerne que les tétines et sucettes) 
+Résolutions du Conseil de l’Europe (textes non réglementaires) 
+◗ AP 2004-4 : Caoutchouc (V1, 10/06/2004) 
+◗ AP 2004-5 : Silicones (V1, 10/06/2004) 
+7.3.1.1 Caoutchoucs 
+FRA Caoutchoucs : arrêté du 5 août 2020 (Liste positive et LMS) pour une publication au  1er juillet 2021. 
+Les modifications de cet arrêté portent sur : 
+◗ La mise à jour des listes des composants autorisés : 
+◗ monomères et substances de départ autorisées, 
+◗ mais aussi : agents modificateurs autorisés, accélérateurs, agents de vulcanisation,  antioxydants, activateurs, retardateurs, charges, plastifiants, résines, agents gonflants14,  lubrifiants et agents de démoulage, produits spéciaux pour latex, colloïdes protecteurs  et/ou épaississants, émulsionnants et dispersants, agents de protection contre la fer 
+mentation, antimousses, agents tampons ou de neutralisation, agents de coagulation. ◗ Ainsi que les restrictions et spécifications applicables à ces composants. 
+◗ Les conditions d’essais à appliquer pour la vérification de la conformité des matériaux  et des articles en caoutchouc. 
+◗ La précision du contenu de la documentation approprié tenue à la disposition des agents  chargés des contrôles. 
+◗ La définition du contenu de la déclaration de conformité. 
+14. Aucun agent gonflant n’est indiqué dans la liste des composants autorisés. Les seuls agents gonflants énumérés figurent dans la liste  des constituants qui ne pourront plus être utilisés après la période transitoire de 4 ans si le dépôt du dossier nécessaire à leur évaluation  n’a pas été déposé avant.
+27 
+L’arrêté intègre le principe de reconnaissance mutuelle (article 10). 
+NOTE : Suivant le document technique n° 2 associé à la résolution AP 2004/4 du Conseil de  l’Europe, la conformité d’un caoutchouc peut être démontrée sans effectuer d’essais  de migration. 
+◗ si le caoutchouc est de catégorie III avec R-total < 0,001 et ne contient pas certaines  substances spécifiques. 
+Les catégories de caoutchouc sont définies dans le document technique n° 2 qui donne  la formule pour calculer le facteur R-total = R1 x R2 x R3 x R4 
+◗ R1 = Ar/100, Surface relative de contact Ar = Surface de contact/quantité d’aliment  en contact (cm2/kg) 
+◗ R2 = 1 si T ≥ 130 °C ou 0,05 e0,023T si T > 130 °C (T : température en °C) 
+◗ R3 = 1 si t ≥ 10 heures et t/10 si t < 10 heures (t en heures) 
+◗ R4 = 1 si le nombre de contacts récurrents avec la même quantité d’aliment est  inférieure à 1000 
+◗ ou si le calcul basé sur « le pire des cas de migration » conduit à une LMS ≤ 0,01 mg/kg  (voir les exemples 2 et 3 de l’article 8.1 du document technique n° 2). 
+7.3.1.2 Silicones 
+Silicones : arrêté du 25 novembre 1992 (Liste positive et LMS) 
+ITA : Décret modifié du 21 mars 1973 (Liste positive, LMS, clause de reconnaissance mutuelle).  Chapitre II : Liste positive des substances de départ et additifs autorisés pour élaborer les  élastomères. 
+DEU : Recommandations du BfR 
+ Chapitre A (Réglementation sanitaire des polymères dans le cadre de l’utilisation de  produits alimentaires) 
+ XV : Silicones, XX I : produit de base en caoutchouc naturel et synthétique… 
+Les substances référencées dans les résolutions du Conseil de l’Europe et les réglementations  françaises, italiennes et allemandes sont listées dans le rapport de l’ESC0. 
+7.3.2 Métaux 
+La résolution du Conseil de l’Europe CM/Res(2013)9 (https://search.coe.int/cm/Pages/result_ details.aspx?ObjectID=09000016805c8066) recommande aux gouvernements des États membres  qu’ils adoptent des mesures législatives et autres (visant à réduire les risques pour la santé résultant  de l’exposition des consommateurs à certains ions métalliques libérés dans la nourriture au contact avec  les métaux et alliages) selon les principes et les lignes directrices énoncés dans le Guide technique « Métaux et alliages constitutifs des matériaux et objets pour contact alimentaire. Guide pratique à  l’intention des fabricants et des autorités réglementaires. 1re édition, 2014 ». Ces recommandations ne  doivent pas empêcher les gouvernements de maintenir ou d’adopter des mesures nationales qui mettent  en œuvre des règles et des réglementations plus strictes.
+28 
+7.3.2.1 Déclaration de conformité requise 
+Fixation de LLS (Limites de libération spécifiques) pour 23 ions métalliques
+	Symbole 
+	LLS (mg/kg) 
+	Symbole 
+	LLS (mg/kg) 
+	Symbole 
+	LLS (mg/kg)
+	Métaux et composants d’alliages
+	Aga) 
+	0,08 
+	Fe 
+	40 
+	Sn* 
+	100
+	Al 
+	5 
+	Mg 
+	Pas de LLS 
+	* : Si hors du champ d’application  du règlement (CE) n° 1881/2006.
+	Co 
+	0,02 
+	Mnb) 
+	1,8 
+	Ti 
+	Pas de LLS
+	Crb) 
+	0,250 
+	Mo 
+	0,12 
+	V 
+	0,01
+	Cu 
+	4 
+	Nia) 
+	0,14 
+	Zn 
+	5
+	Contaminants et impuretés
+	Évolutions prévues a) : facteur de 5 prévu pour les couverts  en argent ou métal argenté (utilisation occasionnelle) ;  b) : modification prévue des LLS Cr, Mn et Tl
+	As 
+	0,002 
+	Cd 
+	0,005 
+	Pb 
+	0,010
+	Ba 
+	1,2 
+	Hg 
+	0,003 
+	Sb 
+	0,04
+	Be 
+	0,01 
+	Li 
+	0,048 
+	Tlb) 
+	0,0001
+	
+
+
+
+Modalités de contrôle des articles à usage répété (hors emballages) 
+(Contrôle suivant raisonnables, pires ou conditions de contact) 
+◗ Essai dans l’aliment prévu au contact si disponible ou bien dans un simulant : 
+◗ « Eau du robinet artificielle » suivant DIN 10531 pour aliments aqueux, alcoolisés et  gras 
+◗ Acide citrique à 0,5 % (5 g/litre) pour aliments acides (pH ≤ 4,5) 
+◗ 3 essais successifs doivent être réalisés : 
+◗ Les instructions du fabricant relatives au « prétraitement » des articles testés (comme  nettoyage requis) doivent être appliquées avant chaque essai. 
+◗ Conformité basée sur le résultat obtenu lors du 3e essai (~ Réglementation italienne  inox). 
+◗ Articles remplissables  : Essais suivant conditions réelles d’utilisation, ou si non  applicables : 
+◗ Pour une utilisation à température ambiante 10 j à 40 °C 
+◗ Remplissage par aliment chaud et conservation de « courte » durée 2 h à 70 °C  + 24 h à 40 °C 
+◗ Utilisation avec contenu en ébullition 2 h à la température d’ébullition du simulant 
+◗ Articles non remplissables (articles de table, ustensiles de cuisine, passoire, presse purée, râpe à fromage). 
+◗ Immersion de l’article entier à une profondeur « raisonnable » reflétant les conditions  d’usage. 
+◗ Définition d’une enveloppe volumique (Vréf) propre à chaque article, méthode de calcul  explicitée.
+29 
+◗ Poids aliment référence (utilisé pour le contrôle de la conformité) en kg = Vréf (cm3)/1000. ◗ Articles à plusieurs composants (incluant accessoires) 
+◗ Rapport de la surface en contact avec la quantité d’aliment au contact connu pour  chacun des éléments, mais pas pour l’article assemblé (hachoir, trancheuse à viande,  machine à café expresso…). La masse totale de tout élément libéré doit être calculée  pour toutes les parties de l’article en contact avec la denrée alimentaire. Cette masse  totale des éléments libérés est convertie en mg/kg, en tenant compte de la plus grande  quantité de produit alimentaire venant en contact avec les différentes parties de l’article. 
+◗ Machines d’une capacité > 10 kg : prise en compte du rapport réel surface de contact/masse  d’aliment. 
+7.3.2.2 Mesures spécifiques françaises 
+◗ Arrêté du 28 juin 1912 modifié relatif à la coloration, à la conservation, et à l’emballage  des denrées alimentaires et des boissons (cuivre, zinc et « fer galvanisé » interdits sauf  chocolaterie/confiserie sans acides liquides et distillerie). 
+◗ Arrêté du 15 novembre 1945 fixant la liste des matériaux susceptibles d’être utilisés  sans inconvénient pour la santé publique dans la fabrication des instruments de mesure. Le  cuivre, le zinc et le fer galvanisé sont autorisés pour les racines, tubercules, bulbes, fruits  à enveloppe sèche, grains, légumes secs et légumes à feuilles ; le cuivre étamé à l’étain fin  pour les vins et alcools. L’avis de l’AFSSA du 19 mars 2002 autorise également le cuivre pour  la fabrication du fromage. 
+◗ NOTE : Les alliages cuivreux et l’acier revêtu de zinc ne sont pas interdits au contact des  aliments, la DGCCRF recommande (fiche « Métaux et alliages ») de valider leur  aptitude au contact suivant la méthode préconisée par le Conseil de l’Europe. 
+7.3.2.3 Mesures spécifiques normes et recommandations par classes de métaux ◗ Aciers inoxydables 
+◗ FRA : Arrêté du 13 janvier 1976 (Cr ≥ 13 % ; Ta, Nb, Zr ≤ 1 % ; Al, Mo, Ti, Cu ≤ 4 %). NF A36-711 (en cours de révision) ; BP A36-720 (Entretien des aciers inoxydables) 
+◗ ITA : Décret modifié (particulièrement pour ce qui concerne les aciers inoxydables, par  le décret n° 140 du 11 novembre 2013 et le décret n° 195 du 6 août 2015) du 21 mars 1973. 
+Essais de libération et Liste positive, mais avec clause de reconnaissance mutuelle. ◗ Aluminiums et alliages 
+◗ UE : Composition : EN 601 (moulés) ; EN 602 (corroyés) ; EN 14392 (anodisation). 
+◗ FRA : Arrêté du 27 août 1987 (Composition et conditions d’anodisation). Prescriptions  de composition satisfaites si conforme à EN 601 ou EN 602, mais pour le bain de colmatage,  l’acide sulfophtalique n’est pas autorisé (divergence nationale EN 14392). 
+◗ ITA : Décret modifié (par décret n° 76 du 18 avril 2010) du 21 mars 1973 : Limites de com position, liste des aliments autorisés au contact de l’aluminium, règles d’étiquetage, clause  de reconnaissance mutuelle. 
+◗ Normes Aciers 
+◗ Aciers pour emballage : EN 10334 (fer noir) ; Revêtus : EN 10333 (étain), EN 10335  (chrome)
+30 
+◗ Aciers hors emballage 
+Non revêtus : NF A36-714 (produits plats), NF A36-715 (produits longs) 
+Produits plats revêtus : NF A36-712, parties 1 (Zn), 2 (Al ou Al-Si), 3 (Cr), 5 (Sn), 6 (Al-Zn) ;  NF A36-713 (Revêtement organique) 
+7.4 Autres textes non réglementaires 
+7.4.1 Conseil de l’Europe 
+Résolutions AP 2002-1 : Papiers et cartons (V4, 12/02/2009) 
+AP 2004-2 : Bouchons en liège (V2, 05/09/2007) 
+AP 2004-3 : Résines échangeuses d’ions (V3, 28/01/2009) 
+AP 2004-1 : Vernis (V3, 12/02/2009) 
+AP 2005-2 : Encres d’emballage (V2, 10/10/2007) 
+Pour les industriels concernés, les résolutions AP 2004-1 et AP 2005-2 sont considérées comme  inapplicables ou inappropriées, un code de pratique est téléchargeable, pour les vernis, depuis  www.cepe.org ainsi que des lignes directrices pour les encres depuis www.eupia.org. 
+Lignes directrices sur la migration du plomb de la vaisselle de verre dans les aliments (V1,  22/09/2004) 
+Lignes directrices sur l’essuie-tout et les serviettes de table en tissu (V1, 22/09/2004) 
+À compter 1er janvier 2009, l’Accord partiel dans le domaine Social et de la Santé publique est dissous,  les activités relatives aux cosmétiques et matériaux d’emballage des aliments ont été transférées à la  Pharmacopée européenne (DEQM : Direction européenne de la qualité du médicament & soins de santé  du Conseil de l’Europe). L’extension de l’activité à tous les Matériaux au Contact des Denrées Alimentaires  ne serait autorisée qu’en fonction des ressources disponibles (CM – 2009 – 105 – 8 juin 2009). Publications  du Conseil de l’Europe téléchargeables depuis le site du Conseil de l’Europe. 
+7.4.2 Fiches DGCCRF 
+Les fiches DGCCRF ont été élaborées pour les différents types de matériaux afin de préciser les  modalités privilégiées de vérification de leur aptitude au contact alimentaire, dans le cadre d’une  réglementation spécifique ou en l’absence de texte réglementaire. Elles peuvent être téléchargées  depuis le site de la DGCCRF. 
+Matériaux et objets destinés au contact des denrées alimentaires 
+◗ Fiche générale* : Note d’information n° 2014-108 05/06/2014 ◗ Fiches spécifiques 
+◗ Aptitude au contact des matériaux destinés à entrer en contact avec des denrées ali mentaires 
+■ Métaux et alliages* Fiche MCDA n° 1 (V02, 01/04/2017) ■ Matériaux inorganiques Fiche MCDA n° 2 (V01, 01/05/2016) Verre – cristal – céramique – vitrocéramique – objets émaillés. 
+■ Matériaux organiques à base de matières synthétiques 
+• Matières plastiques, complexes, caoutchouc (en cours de révision) 01/04/2017 • Annexe 1 : Emploi des matériaux et objets au four à micro-ondes
+31 
+■ Matériaux organiques à base de fibres végétales Fiche datée du 01/01/2019 
+• Papiers et cartons ; Papiers et cartons enduits. Fichier sur site de la DGCCRF daté du  25/04/2019 
+◗ Bois – Note d’information n° 2012-93 16/08/2012 ◗ Encres, revêtements et vernis pour impression de la partie extérieure des matériaux Fiche non datée (ancienne : antérieure au règlement (UE) n° 10/2011) et non proposée en format PDF. 
+* : La fiche générale, la fiche métaux et alliages et la fiche matériaux inorganiques sont également  disponibles en anglais.
+32 
+Annexe 1Déclaration  de conformité 
+Mise à jour sur le site de l’ANIA le 15 juillet 2019
+1 – Quand une déclaration de conformité est-elle obligatoire ? 
+L’obligation d’accompagner un matériau ou objet destiné à entrer au contact des denrées ali mentaires d’une déclaration de conformité (DoC) au règlement (CE) n° 1935/2004 et aux mesures  spécifiques applicables dépend de la nature du matériau et du pays de l’Union européenne d’uti lisation de ce matériau ou objet. 
+Aussi, 17 groupes de matériaux (nature) sont listés en Annexe I du règlement (CE) n° 1935/2004 : ◗ 1) Matériaux et objets actifs et intelligents, 
+◗ 2) Colles 
+◗ 3) Céramiques15 
+◗ 4) Liège 
+◗ 5) Caoutchoucs 
+◗ 6) Verre 
+◗ 7) Résines échangeuses d’ions 
+◗ 8) Métaux et alliages 
+◗ 9) Papier et carton 
+◗ 10) Matières plastiques16 
+◗ 11) Encres d’imprimerie 
+◗ 12) Celluloses régénérées 
+◗ 13) Silicones 
+◗ 14) Textiles 
+◗ 15) Vernis et revêtements17 
+15. Directive 84/500/CEE, article premier, alinéa 3 : On entend par « objets céramiques » les objets fabriqués à partir d’un mélange de  matières inorganiques d’une teneur généralement élevée en argile ou en silicate auxquelles sont ajoutées éventuellement de faibles  quantités de matières organiques. Ces objets sont d’abord formés et la forme obtenue est fixée de façon permanente par cuisson. Ils  peuvent être vitrifiés, émaillés et/ou décorés. 
+16. Règlement UE n° 10/2011 : 
+Article 2 : 
+1. Le présent règlement s’applique aux matériaux et objets mis sur le marché de l’Union européenne qui relèvent des catégories suivantes : a) les matériaux et objets ainsi que leurs éléments constitués exclusivement de matière plastique ; 
+b) les matériaux et objets en matière plastique multicouches dont les différentes couches sont reliées entre elles à l’aide de colle ou  par tout autre moyen ; 
+c) les matériaux et objets visés aux points a) et b) imprimés et/ou enduits d’un revêtement ; 
+d) les couches en matière plastique ou revêtements en matière plastique formant des joints de capsules et de fermetures, qui composent  avec ces capsules et fermetures un ensemble de deux ou plusieurs couches de matériaux de nature différente ; 
+e) les couches en matière plastique de matériaux et d’objets multimatériaux multicouches. 
+Article 3 – Aux fins du présent règlement, on entend par : 
+1. « matériaux et objets en matière plastique », 
+a) les matériaux et objets visés à l’article 2, paragraphe 1, points a), b) et c), ainsi que 
+b) les couches en matière plastique visées à l’article 2, paragraphe 1, points d) et e); 
+2. « matière plastique », un polymère auquel des additifs ou d’autres substances ont pu être ajoutés, capable de servir de principal compo sant structurel de matériaux et d’objets finaux. 
+17. Dans le rapport (ISBN 978-92-79-64632-4) de la Commission européenne, publié en janvier 2017, sur la « Situation réglementaire des  MCDA non harmonisés dans l’UE », les vernis et revêtements sont définis comme suit : « Les vernis et les revêtements sont des couches  non auto-supportées (non-self-supporting layers) composées de substances appliquées sur un autre matériau ou article afin de lui conférer  des propriétés spéciales ou d’améliorer ses performances techniques. […] »
+34 
+◗ 16) Cires 
+◗ 17) Bois 
+Les définitions des groupes de matériaux, indiquées dans les mesures spécifiques correspon dantes, peuvent différer de l’entendement usuel, car, au sens de la réglementation : 
+◗ Le grès, la porcelaine et la faïence sont des céramiques mais des céramiques techniques  (SiC, Si3N4, ZrO2 …) alors que les revêtements (TiN; TiC, CrN…) ne sont pas des céramiques. 
+◗ Un matériau plastique doit être « capable de servir de principal composant structurel de  matériaux et d’objets finaux ». Les vernis et revêtements organiques (« non self-supporting  layers ») ne sont pas des matériaux plastiques. 
+Tout pays de l’UE
+	DoC obligatoire pour tout matériau ou objet soumis à des mesures  spécifiques au niveau européen (Réglementation harmonisée), à savoir : – Matière plastique 
+– Céramiques (mais grès, faïence, porcelaine… uniquement, c’est-à-dire  principalement applicable à des articles des arts de la table). 
+– Tétines et sucettes en caoutchouc, matériaux actifs et intelligents et cellulose  régénérée. 
+– Vernis et revêtements – Déclaration de conformité au règlement (UE)  n° 2018/213 (BPA) obligatoire depuis le 06/09/2018.
+	France 
+et Belgique
+	DoC obligatoire pour tout matériau ou objet destiné à entrer en contact  avec des denrées alimentaires, quelle que soit la nature du matériau ou objet,  même s’il n’existe aucune mesure spécifique au niveau européen ou national. NOTE : Pour de nombreux groupes de matériaux, une DoC est obligatoire  sans que les règles à respecter pour attester de l’inertie des matériaux  vis-à-vis de l’aliment soient réglementairement définies. Dans un tel cas,  les recommandations18 (fiches) de la DGCCRF peuvent s’avérer très utiles.
+	
+
+
+
+Si la DoC est obligatoire : 
+◗ l’article ou matériel (= objet) doit être accompagné d’une DoC ; 
+◗ les matériaux ou objets (composants) approvisionnés pour fabriquer les parties de l’ar ticle ou du matériel destinées à entrer au contact des denrées alimentaires doivent être  accompagnés d’une DoC à moins que la conformité des matériaux ou objets ne puisse être  autrement prouvée : 
+◗ par exemple, la conformité de l’acier inoxydable aux exigences de composition de l’ar rêté du 13 janvier 1976 peut être basée sur un document de contrôle avec analyse de  coulée, 
+◗ mais, pour un matériau plastique, la DoC s’avère obligatoire19. 
+18. Contrairement aux exigences réglementaires, les opérateurs (fabricants, importateurs…) ne sont pas légalement tenus de vérifier le  respect de recommandations, mais, en cas de contrôle, le non-respect de recommandations peut être utilisé comme preuve du non-respect  du principe d’inertie imposé par l’article 3 du règlement (CE) n° 1935/2004 pour condamner l’opérateur. 19. Seul l’élaborateur du matériau plastique est en mesure de déclarer que toutes les substances de départ utilisées appartiennent à la  liste de l’Union (Annexe I du règlement (UE) n° 10/2011).
+35 
+2 – De quoi ai-je besoin et comment remplir une déclaration  de conformité ? 
+A – Déterminer les textes applicables 
+◗ 1. Déterminer les éléments du matériel ou équipement soumis à la réglementation  MCDA. Les zones alimentaires du matériel ou équipement doivent respecter les règles s’appli quant aux matériaux destinés à entrer au contact des denrées alimentaires. Les autres zones  ne doivent pas contaminer ou altérer les aliments. 
+◗ 2. Pour chaque élément au contact du matériel ou équipement : 
+◗ a. Déterminer la(les) famille(s) de matériaux (Annexe  I du règlement (CE)  n° 1935/2004). 
+◗ b. Pour chaque famille de matériaux, réglementation harmonisée au niveau euro péen ? 
+i. Oui  : 🡪 Mesures spécifiques européennes applicables (règlement (UE)  n° 10/2011…). 
+ii. Non – Existe-t-il des recommandations ou des normes européennes et/ou des  dispositions ou recommandations nationales ou sectorielles ? 
+◗ 1. Oui 🡪 textes utilisables : 
+• a. Mesures spécifiques nationales (de préférence du pays d’utilisation du maté riel, mais il est possible d’utiliser d’autres textes en se prévalant du principe de  reconnaissance mutuelle). 
+• b. Recommandations européennes (résolutions du Conseil de l’Europe), normes  EN (EN 602…). 
+• c. Recommandations ou normes nationales (fiches DGCCRF, recommandations  du Bfr…). 
+• d. Guides de bonnes pratiques. 
+◗ 2. Non 🡪 Aucun texte utilisable. 
+Autre classe de matériau pour cet élément ? Si oui 
+Autre élément du matériel ou équipement à analyser ? Si oui 
+B – Définir les conditions d’usage du matériel ou équipement 
+(Nature(s) des aliments au contact, température et durée maximales de contact) 
+◗ Usage spécifique. Pour un matériel ou équipement destiné à un client bien défini, il  faut demander à son client de préciser les conditions prévues d’utilisation, au minimum :  nature(s) des aliments au contact, température et durée maximales de contact. 
+◗ Usages multiples. Il appartient au fabricant de préciser les conditions limites d’utilisation. C – Valider l’aptitude au contact des matériaux utilisés (pour l’usage prévu) 
+◗ Lors de la commande, indiquer à vos fournisseurs que les matériaux ou objets comman dés sont destinés à entrer au contact des denrées alimentaires et qu’ils doivent donc satis faire aux exigences du règlement (CE) n° 1935/2004 (ce règlement impose entre autres que 
+36 
+les matériaux et objets soient fabriqués conformément aux bonnes pratiques de fabrication et  d’en assurer la traçabilité) et leur demander20 : 
+◗ une déclaration de conformité au règlement (CE) n° 1935/2004 et aux mesures spé cifiques applicables. On indiquera éventuellement au fournisseur les textes à respecter  (déterminés en A) et on lui précisera l’usage prévu (défini en B). Cette déclaration de  conformité est obligatoire dans le cas des matériaux plastiques* et, bien que dans la  pratique souvent plus difficile à obtenir, elle l’est également en France dans le cas des  caoutchoucs et silicones. 
+Dans la pratique, pour prouver la conformité des caoutchoucs destinés à entrer en contact avec  des denrées alimentaires, à l’article 3 du règlement (CE) n° 1935/2004 : 
+◗ Nous pouvons utiliser le document technique n° 2 associé à la résolution AP 2004/4 du  Conseil de l’Europe pour démontrer la conformité sans avoir à effectuer des essais de  migration (cf. §7.3.1. Note Élastomères et caoutchoucs). 
+◗ Dans les autres cas, nous sommes amenés à nous appuyer sur des mesures nationales  spécifiques, comme les réglementations françaises, italiennes ou les recommandations Bfr  (Allemagne), néerlandaises… Suivant le principe de reconnaissance mutuelle, tout produit  légalement fabriqué et commercialisé dans un État membre doit être, en principe, admis  sur le marché de tout autre État membre. Néanmoins, pour des produits fabriqués et com 
+mercialisés dans un pays où des réglementations spécifiques existent, elles doivent être  appliquées. 
+NOTE : Une conformité aux exigences de la FDA ne peut pas être utilisée à la place d’une  déclaration de conformité au règlement (CE) n° 1935/2004, la réglementation améri caine ne s’applique pas en Europe. 
+Pour les matériaux plastiques et les élastomères (caoutchoucs et silicones), il n’est en général  pas possible de démontrer la conformité en se basant uniquement sur des analyses et essais  
+20. Obligation de fournir une déclaration de conformité 
+Article 16 du règlement (CE) n° 1935/2004 : Déclaration de conformité 
+1. Les mesures spécifiques visées à l’article 5 prévoient l’obligation d’accompagner les matériaux et objets concernés d’une déclaration  écrite attestant leur conformité avec les règles qui leur sont applicables. 
+Une documentation appropriée doit être disponible pour démontrer cette conformité. Cette documentation est mise à la disposition des  autorités compétentes à la demande de celles-ci. 
+2. En l’absence de mesures spécifiques, le présent règlement n’empêche pas les États membres de maintenir ou d’adopter des dispositions  nationales en ce qui concerne les déclarations de conformité relatives aux matériaux et objets. 
+France : Le décret n° 2008-1469 du 30 décembre 2008 modifie le décret 2007-766 du 10 mai 2007 en étendant, en France, l’obligation  d’une déclaration de conformité aux dispositions des articles 3 et 4 du règlement (CE) 1935/2004 à tous matériaux destinés à entrer en  contact avec des denrées alimentaires. 
+Article 6 du décret n° 2008-1469 du 30 décembre 2008. « Art. 6. – Aux stades de la commercialisation autres que la vente ou la distribution à titre  gratuit au consommateur final, les matériaux et objets destinés à entrer en contact avec des denrées alimentaires sont accompagnés d’une déclara tion écrite attestant de leur conformité aux dispositions des articles 3 et 4 du règlement du 27 octobre 2004 susvisé. Cette obligation déclarative ne  s’applique pas aux matériaux qui, de par leurs caractéristiques, sont manifestement destinés à entrer en contact avec des denrées alimentaires. » 
+Belgique : Arrêté royal modifié du 11 mai 1992 (dernière modification 2017 : https://www.health.belgium.be/fr/alimentation/securite alimentaire/materiel-de-conditionnement-et-demballage/declaration-de) 
+Art. 9. § 1er. Les fabricants, importateurs, transformateurs ou vendeurs de matériaux et objets destinés au contact alimentaire, mais non  encore en contact avec des denrées alimentaires, sont tenus de fournir une déclaration de conformité à leur client, excepté au consomma teur final, attestant la conformité desdits matériaux et objets aux dispositions des articles 3, 4, 5, 15, 16 et 17 du règlement (CE) n° 1935/2004  du Parlement européen et du Conseil du 27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées  alimentaires et aux dispositions nationales. 
+Voir également : 
+– Questions-réponses de l’AFSCA, FAQ pour les matériaux et objets destinés à entrer en contact avec les denrées alimentaires (PDF à  télécharger – mise à jour 2020) (http://www.favv-afsca.be/professionnels/denreesalimentaires/materiauxcontact/). 
+– Contenu minimal d’une déclaration de conformité (Annexe I de l’arrêté royal du 11 mai 1992). 
+– Modèle de déclaration de conformité (https://www.health.belgium.be/fr/declaration-de-conformite-concernant-les-materiaux-et-des objets-destines-entrer-en-contact-avec-des#anchor-25019).
+37 
+effectués sur le matériau ou objet reçu, seule une non-conformité peut être ainsi révélée. Le  fabricant est en effet le seul à connaître précisément les substances de départ utilisées et  pouvoir déclarer qu’il n’a employé que des substances de départ autorisées et que les limites  de migration spécifique ont été contrôlées pour toutes les substances qui y sont soumises. De  plus, seul le fabricant est à même de déterminer que le prélèvement effectué pour réaliser les  essais est représentatif d’un lot. 
+◗ Et/ou, pour les matériaux uniquement soumis à des exigences de composition, un  document de contrôle avec indication de la composition chimique. Cette approche peut  notamment être utilisée pour valider la conformité, aux mesures spécifiques françaises,  des aciers inoxydables, aluminiums et alliages d’aluminium. En plus du respect de ces  prescriptions analytiques, le matériau doit être choisi en adéquation avec le milieu pré 
+visible de travail. 
+◗ Une déclaration de composition pour les encres, revêtements, vernis d’imprimerie,  appliqués sur la partie non destinée à venir au contact des denrées alimentaires de tout  matériau ou objet destiné à entrer en contact avec les denrées (cf. fiches DGCCRF ou guide  EuPIA qui est l’association européenne des fabricants d’encres d’imprimerie). 
+◗ Pour valider l’aptitude au contact des autres matériaux non soumis à des mesures spé cifiques, on peut s’appuyer sur les fiches DGCCRF quand elles existent (https://www.economie. gouv.fr/dgccrf/Materiaux-au-contact-des-denrees-alimentaires). 
+La fiche de la DGCCRF « Métaux et alliages » recommande de vérifier la conformité conformé ment aux principes définis dans le guide associé à la résolution CM/Res(2013)9 du Conseil  de l’Europe, avec éventuellement des exigences supplémentaires concernant des teneurs  maximales en éléments indésirables (Pb, Cd, As) et des limites d’utilisation (zinc et alliages  de zinc), pour : 
+◗ Les métaux (autres que l’acier inoxydable – fiche n° 1), l’aluminium et les alliages d’alu minium – fiche n° 2) faisant l’objet d’une fiche spécifique : acier pour emballage (fiche n° 3),  acier non revêtu hors emballage (fiche n° 4), fonte non alliée (fiche n° 6), étain et alliage  d’étain (fiche n° 7), zinc et alliage de zinc (fiche n° 8). 
+◗ Les métaux avec revêtement métallique (acier et acier inoxydable avec revêtement  métallique : fiche 5.a, objets et métaux divers revêtus : fiche n° 9, métal blanchi). Pour des applications dans le domaine agroalimentaire, c’est essentiellement le chromage dur et le  nickel chimique, généralement à haut phosphore, qui sont utilisés. La fiche 5.b concerne les  métaux avec revêtement organique. 
+◗ Les métaux qui ne font pas l’objet d’une fiche spécifique de la DGCCRF : cuivreux :  bronzes, laitons…, alliages de nickel en incluant les alliages moulés antigrippage, titane  et alliages de titane…, métaux listés en Annexe III de la fiche « Métaux et alliages ». 
+◗ Les aciers inoxydables avec traitements thermochimiques, effectués pour améliorer  leur comportement tribologique (tenue à l’abrasion, adhésion et résistance au grippage) : 
+◗ aciers martensitiques nitrurés, 
+◗ enrichissements superficiels (≤ 30 µm généralement) en carbone (Kolsterising) ou en  azote ou en carbone plus azote (procédés Nivox, Stainihard, Expanite Low-T) des aciers  austénitiques ; 
+◗ ou enrichissement en azote de la ferrite sur de grandes profondeurs, jusqu’à 2 mm  (procédés IPSEN Solnit et ExpaniteHighT notamment appliqués aux aciers inoxydables  austéno-ferritiques).
+38 
+On peut ainsi vérifier que l’inertie du matériau traité demeure suffisante, mais les exi gences de composition applicables à l’acier inoxydable doivent être également respectées. 
+◗ Les « Carbures » : en réalité des composites à matrice métallique contenant des car bures, de tungstène le plus souvent. Le liant métallique est en général du cobalt, mais, pour les  applications alimentaires, on utilise préférentiellement un liant nickel en raison d’une meilleure  tenue à la corrosion. Et/ou tout autre texte applicable déterminé en A). 
+La fiche « Métaux et alliages » de la DGCCRF ne concerne pas : 
+◗ Les métaux avec revêtements céramiques : carbures ou nitrures (TiN, TiC, Ti(C,N), TiAlN,  AlTiN, CrN, AlCrN…) et oxydes (Al2O3) déposés par des procédés PVD ou CVD sur un substrat  métallique, acier en général. Néanmoins, comme les carbures, nitrures ou oxydes sont,  en général, intrinsèquement inertes, mais ne constituent pas une barrière fonctionnelle,  l’inertie chimique du matériau ainsi revêtu devrait pouvoir être vérifiée suivant la méthode  applicable aux métaux. Cette approche est également applicable aux revêtements DLC 
+(« Diamond Like Coating »). 
+◗ Les métaux avec revêtements « dits céramiques » (sol-gel). 
+De manière générale, pour les métaux non revêtus ou revêtus, dans la fiche « Métaux et  alliages » de la DGCCRF, il est indiqué que : 
+◗ Dans le cadre de l’application de l’analyse de risque basée sur des principes HACCP  prévue par le règlement (CE) n° 852/2004, l’inertie du matériau ou objet au contact vis à-vis des libérations spécifiques de constituants dans les denrées alimentaires est vérifiée  par l’opérateur agroalimentaire sur la denrée alimentaire qui a déjà été en contact avec le  matériau ou objet. 
+◗ Dans tous les cas, les essais de libération priment sur les essais en composition pour  démontrer la conformité à l’article 3 du règlement (CE) n° 1935/2004. Les essais en  libération dans les denrées alimentaires priment sur ceux réalisés dans des simulants. En ce qui concerne les matériaux et objets revêtus, les essais de migration réalisés  sur le produit fini priment sur ceux réalisés en déposant le revêtement sur un support  « inerte ». 
+◗ Néanmoins, pour la DGCCRF, cette règle n’est pas applicable aux aciers inoxydables,  aluminiums et alliages d’aluminium qui entrent dans le champ d’un texte réglementaire  spécifique national fixant des critères complets en composition. Pour ces matériaux, ce  sont les exigences de composition qui doivent être respectées. 
+Toutefois, aucun texte applicable ne peut être, à notre connaissance, actuellement trouvé pour  certains matériaux comme les céramiques techniques (zircone, nitrures et carbures de silicium…)  hors du champ d’application de la directive relative aux céramiques, les composites carbone carbone… Dans ce cas de figure, il est conseillé de réaliser une analyse de risques, de rassembler  les éléments (articles, références…) permettant d’attester de l’inertie du matériau pour l’usage  prévu, éventuellement complétés par des résultats d’essais appropriés. 
+D – Utiliser le modèle ANIA-EHEDGFrance-FIM pour rédiger la déclaration  de conformité 
+Modèle de déclaration de conformité téléchargeable depuis le site de l’ANIA (https://www.ania.net/). 
+◗ Indiquer le nom et l’adresse de la société déclarant la conformité du matériel ou équipe ment ainsi que le nom et la fonction de la personne effectuant la déclaration.
+39 
+◗ Compléter le tableau : 
+◗ en cochant les familles de matériaux constitutifs des éléments au contact du matériel  ou équipement ; 
+◗ en indiquant, dans la colonne de droite, les textes applicables. (Si aucun texte n’est  applicable pour une famille de matériaux cochée, le préciser.) 
+◗ en exploitant les résultats de l’analyse effectuée au §A de cette Annexe. 
+◗ Référencer explicitement le matériel ou équipement concerné par la déclaration de  conformité. 
+◗ Préciser l’usage prévu et/ou les conditions limites d’utilisation telles que définies au §B  de cette Annexe). (Pour un usage hors des conditions prévues, la déclaration de conformité  n’est plus valide.) 
+◗ Cocher les (au moins une) cases correspondantes aux éléments utilisés (déclarations  de fournisseurs, analyse de migration globale…) en indiquant, le cas échéant, les résultats  d’analyse de migration. 
+Tous les éléments (déclarations de conformité, procès-verbal d’essai…) utilisés pour la déclara tion et permettant de démontrer la conformité du matériau ou objet doivent être conservés. Cette documentation est mise à la disposition des autorités compétentes à la demande de  celles-ci. 
+◗ Dater et signer la déclaration en y apposant, le cas échéant, le cachet de la société.
+40 
+Annexe 2Liste des textes  
+réglementaires  
+(UE et France) référencés
+Récapitulatif des exigences réglementaires (MCDA)  
+dans l’UE et de leur application en France
+	
+
+	Tous pays de l’UE 
+	Mesures nationales FRA (mise en application directives)
+	Tous matériaux
+	Règlement cadre (CE) n° 1935/2004 
+Règlement (CE) n° 2023/2006 
+Bonnes Pratiques de Fabrication 
+Règlement modifié par règlement (CE) n° 282/2008
+	Décret modifié 2007-766  
+du 10/05/2007 
+◗ Sanctions 
+◗ Marquage négatif 
+◗ Obligation DoC étendue  
+à tout matériau au contact
+	Mesures spécifiques
+	Groupe matériaux
+	Plastiques : Règlement modifié (UE) n° 10/2011 MP recyclées : règlement (CE) n° 282/2008 
+Céramiques : Directive 84/500/CE 
+Matériaux actifs et intelligents : règlement (CE)  n° 450/2009 
+Pellicule de cellulose régénérée : Directive 2007/42/CE
+	(Arrêté modifié du 07/11/1985) (Arrêté modifié du 04/11/1993)
+	Substances
+	BPA : règlement (UE) n° 2018/213 (applicable aux matériaux plastiques et aux vernis  et revêtements) 
+Dérivés époxydiques (BADGE, BFDGE, NOGE) : règlement (CE) n° 1895/2005
+	N-nitrosamines et substances N-nitrosables  (tétines et sucettes en élastomères ou caoutchouc) : directive 93/11/CEE
+	(Arrêté du 05/08/2020 :  
+caoutchoucs)
+	
+
+	Divers 
+	Ustensiles de cuisine en mélamine ou en polyamide originaires ou en provenance  de Chine ou de Hong Kong : règlement (UE) n° 284/2011
+	
+
+
+
+A2 _ 1 Mesures générales (applicables à tous types  de matériaux) 
+◗ Règlement (CE) n° 1935/2004 du Parlement européen et du Conseil du 27 octobre 2004  concernant les matériaux et objets destinés à entrer au contact des denrées alimentaires  et abrogeant les directives 80/590/CEE et 89/109/CEE. (JOUE n° L338 du 13/11/2004, p. 4 à 17,  entré en vigueur le 06/12/2004.) 
+◗ Règlement (CE) n° 2023/2006 de la Commission du 22 décembre 2006 relatif aux bonnes  pratiques de fabrication des matériaux et objets destinés à entrer en contact avec des  denrées alimentaires – Applicable à partir du 1er août 2008 (JOUE du 29/12/2006, n° L384,  p. 75 à 77). 
+◗ Décret n° 2007-76621 du 10 mai 2007 portant application du Code de la consommation en  ce qui concerne les matériaux et les objets destinés à entrer en contact avec les denrées  
+21. Le décret 2007-766 du 10 mai 2007 modifié abroge le décret 92-631 du 8 juillet 1992 en tant qu’il concerne les matériaux et objets  destinés à entrer en contact avec des denrées alimentaires compris dans le champ d’application du règlement cadre européen, mais les  autres dispositions du décret 92-631 demeurent en vigueur : exigences d’alimentarité pour les aliments et objets destinés à entrer en  contact avec des aliments pour animaux, dispositions concernant le traitement par rayons ionisants, dispositions pour l’évaluation de  nouvelles substances par l’AFSSA (maintenant ANSES) et les arrêtés pris en vertu des dispositions des articles 1er à 9 du décret 73-138 du  12 février 1973. La modification du 30 décembre 2008 fournit la base juridique nécessaire à l’adoption par arrêté de dispositions nationales comme  le prévoient les articles 6 et 16 du règlement (CE) n° 1935/2004 en l’absence de mesures spécifiques harmonisées.
+42 
+alimentaires (J.O. du 11 mai 2007) modifié par le décret n° 2008-1469 du 30 décembre 2008  (J.O. du 31 décembre 2008, texte 74 sur 272). 
+Le décret 2007-766 associe des sanctions au règlement (CE) 1935/2004 et aux dispositions des  règlements communautaires ayant le même objet, qui les modifieraient ou seraient pris pour  leur application. Il impose un marquage négatif des matériaux ou objets qui, par leur apparence,  semblent destinés à être mis au contact des denrées alimentaires, sans pour autant rentrer  dans le champ d’application du règlement (CE) n° 1935/2004. 
+A2 _ 2 Mesures européennes spécifiques relatives  à des groupes de matériaux 
+– Transcription en droit français pour les directives 
+◗ Règlement (UE) n° 10/2011 de la Commission du 14 janvier 2011 concernant les maté riaux et objets en matière plastique destinés à entrer en contact avec des denrées alimen taires (JOUE du 15/01/2011 n° L12, p. 1 à 89, applicable à partir du 1er mai 2011). Rectificatif à  la version française (JOUE du 25/10/2011 n° L278/13) 
+Modifié par : 
+◗ Règlement (UE) n° 321/2011 (JOUE du 01/04/2011, n° L87, p. 1-2 ; interdiction du bisphénol A  dans les biberons en plastique pour nourrissons). 
+◗ Règlement (UE) n° 1282/2011 (JOUE du 10/12/2011, n° L328, p. 22-23). 
+◗ Règlement (UE) n° 1183/2012 du 30 novembre 2012 (JOUE du 12/12/2012, n° L338, p. 11 à 15). ◗ Règlement (UE) n° 202/2014 du 3 mars 2014 (JOUE du 04/03/2014 n° L62, p. 13 à 15I). ◗ Règlement (UE) 2015/174 du 5 février 2015 (JOUE du 06/02/2015 n° L3, p. 2 à 9). ◗ Règlement (UE) 2016/416 du 24 août 2016 (JOUE du 25/08/2016 n° L230/22, p. 22 à 42). 
+Les dispositions du règlement (UE) 2016/1416 relatives aux limites de migration spéci fique de l’aluminium et du zinc ainsi que celles relatives à l’affectation des simulants de  denrées alimentaires s’appliquent à compter du 14 septembre 2018. 
+◗ Règlement (UE) 2017/752 du 28 avril 2017 (JOUE du 29/04/2017 n° L113, p. 18 à 23). ◗ Règlement (UE) 2018/79 du 18 janvier 2018 (JOUE du 19/01/2018 n° L14, p. 31 à 34). 
+◗ Règlement (UE) 2018/213 du 12 février 2018 (JOUE du 14/02/2018 n° L41, p. 6 à 11). LMS  BPA également applicables aux vernis et revêtements. 
+◗ Règlement (UE) 2018/831 du 5 juin 2018 (JOUE du 06/06/2018 n° L140, p. 35 à 37). 
+◗ Version consolidée disponible mais non juridiquement contraignante (https://eur-lex. europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:02011R0010-20180914&from=EN) 
+◗ Règlement (UE) 2019/37 du 10 janvier 2019 ((JOUE du 11/01/2019 n° L89, p. 88 à 93). ◗ Règlement (UE) 2019/1338 du 8 août 2019 (JOUE du 09/08/2019 n° L209, p. 5 à 7). 
+Les règlements apparaissant en italique ne modifient que l’Annexe I (Liste de l’Union). Le  règlement (UE) 2019/988 (JOUE du 18/06/2019 n° L160, p. 10) est un correctif à la version fran çaise (LMS substance CAS : 1455-42-1). 
+◗ Règlement (UE) 2020/1245 du 2 septembre 2020 (JOUE du 09/08/2019 n° L209, p. 5 à 7).
+43 
+Guides d’application du règlement (UE) n° 10/2011 
+https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:012:0001:0089:FR:PDF 
+◗ Guide général « Union Guidelines on Regulation (EU) n° 10/2011 on plastic materials  and articles intended to come into contact with food ». 21/02/2014. 
+◗ Déclaration de conformité « Union Guidance on Regulation (EU) n° 10/2011 on plastic  materials and articles intended to come into contact with food as regards information in  the supply chain ». 28/11/2013. 
+◗ Règlement (CE) n° 282/2008 du 27 mars 2008 relatif aux matériaux et aux objets en  matière plastique recyclée destinés à entrer en contact avec des denrées alimentaires et  modifiant le règlement (CE) n° 2023/2006 (JOUE du 28/03/2008 n° L86, p. 9 à 18). 
+◗ Directive 84/500/CEE (Version consolidée du 20 mai 2005 https://eur-lex.europa.eu/legal content/FR/TXT/?uri=CELEX%3A01984L0500-20050520) Directive du Conseil du 15 octobre 1984  relative au Rapprochement des législations des États membres en ce qui concerne les objets  céramiques destinés à entrer en contact avec les denrées alimentaires (JOCE n° L277 du  20/10/1984, p. 12 à 16, entrée en vigueur le 16/10/1987) modifiée par : 
+◗ Directive 2005/31/CE de la Commission du 29 avril 2005 modifiant la directive 84/500/CEE  du Conseil en ce qui concerne la déclaration de conformité et les critères de performance  de la méthode d’analyse des objets céramiques destinés à entrer en contact avec les  denrées alimentaires. (JOUE n° L110 du 30/04/2005 p. 36 à 39). 
+◗ Arrêté du 07/11/1985 relatif à la limitation des quantités de plomb et de cadmium  extractibles des objets en céramique mis ou destinés à être mis au contact des denrées,  produits et boissons alimentaires (J.O. du 01/12/1985, p. 13942), modifié par l’arrêté du  23 mai 2006 (J.O. du 03/06/2006, texte 15/122). 
+◗ Règlement (CE) n° 450/2009 de la Commission du 29 mai 2009 concernant les matériaux  et objets actifs et intelligents destinés à entrer en contact avec des denrées alimentaires  (JOUE n° L135 du 30/05/2009, p. 3 à 11). 
+◗ Directive 2007/42/CE de la Commission du 29 juin 2007 relative aux matériaux et aux  objets en pellicule de cellulose régénérée, destinés à entrer en contact avec les denrées  alimentaires (JOUE n° L142 du 30/06/2007, p. 71 à 82). Cette directive est une codification  de la directive 93/10/CEE et de ses modifications (directives 93/111/CE et 2004/14/CE) qui sont  abrogées par la directive 2007/42/CE. 
+◗ Arrêté du 04/11/1993 relatif aux matériaux et objets en pellicule de cellulose régéné rée mis ou destinés à être mis au contact des denrées, produits et boissons alimentaires  (J.O. n° 279 du 02/12/1993, p. 16696). Transcription en droit national de la directive 93/10/CEE  et de son 1er amendement (directive 93/11/CE). 
+◗ Arrêté du 21 octobre 2004 modifiant l’arrêté du 4 novembre 1993 relatif aux matériaux  et objets en pellicule de cellulose régénérée mis ou destinés à être mis au contact  des denrées, produits et boissons alimentaires (J.O. du 25/11/2004, texte 1 sur 119). Transcription en droit national de la directive 2004/14/CE, 2e amendement de la direc tive 93/10/CEE.
+44 
+A2 _ 3 Mesures européennes spécifiques relatives  à des substances 
+◗ Règlement (CE) n° 1895/2005 de la Commission du 18 novembre 2005 concernant la limita tion de l’utilisation de certains dérivés époxydiques dans les matériaux et objets destinés  à entrer en contact avec des denrées alimentaires. (JOUE n° L302 du 19/11/2005, p. 28 à 32). Applicable à partir du 1er janvier 2006. 
+◗ Directive 93/11/CEE de la Commission, du 15 mars 1993, concernant la libération de  N-nitrosamines et de substances N-nitrosables par les tétines et les sucettes en élasto mère ou caoutchouc. (JOCE n° L93 du 17/04/1993, p.37-38, entrée en vigueur le 01/01/1994  et 01/04/1995). Rectificatif JOCE n° L164 du 07/07/1993, p. 12. 
+■ Arrêté modifié du 9 novembre 1994 relatif aux matériaux et objets en caoutchouc au  contact des denrées, produits et boissons alimentaires (cf. mesures nationales spé cifiques françaises). 
+NOTE : Nombreuses exigences complémentaires par rapport à la directive. 
+◗ Règlement (UE) 2018/213 de la Commission du 12 février 2018 relatif à l’utilisation du  bisphénol A dans les vernis et les revêtements destinés à entrer en contact avec des den rées alimentaires et modifiant le règlement (UE) n° 10/2011 en ce qui concerne l’utilisation  de cette substance dans les matériaux en matière plastique entrant en contact avec des  denrées alimentaires relatif au bisphénol A. 
+A2 _ 4 Mesures relatives aux produits originaires  ou en provenance de Chine ou de Hong Kong 
+◗ Règlement (UE) n° 284/2011 du 22 mars 2011 fixant des conditions particulières et des pro cédures détaillées pour l’importation d’ustensiles de cuisine en matière plastique polyamide  et mélamine originaires ou en provenance de la République populaire de Chine et de la région  administrative spéciale de Hong Kong (JOUE du 23/03/2011, n° L77, p. 25 à 29). 
+◗ EU guidelines on conditions and procedures for the import of polyamide and melamine  kitchenware originating in or consigned from People’s Republic of China and Hong Kong  Special Administrative Region, China. VERSION 1 (https://ec.europa.eu/food/sites/food/ files/safety/docs/cs_fcm_legis_china_guidelines_import-polymide-melamine.pdf) 
+◗ Technical guidelines on testing the migration of primary aromatic amines from poly amide kitchenware and of formaldehyde from melamine kitchenware - 1st edition 2011. (https://publications.jrc.ec.europa.eu/repository/handle/JRC64903) 
+◗ Déclaration de conformité au titre du règlement (UE) n° 284/2011. 
+A2 _ 5 Règlements connexes 
+◗ Règlement (UE) 2019/515 du Parlement européen et du Conseil du 19 mars 2019 relatif  à la reconnaissance mutuelle des biens commercialisés légalement dans un autre État  membre et abrogeant le règlement (CE) n° 764/2008 (JOUE n° L91 du 19 mars 2019, p. 1 à 18,  applicable à partir du 19/04/2020). Application du principe de reconnaissance mutuelle 
+◗ Règlement (CE) n° 178/2002 (« Food law ») du Parlement européen et du Conseil du 28 jan vier 2002 établissant les principes généraux et les prescriptions générales de la législation 
+45 
+alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures  relatives à la sécurité des denrées alimentaires (JOUE n° L31 du 01/02/2002, p. 1). 
+Modifié par : 
+◗ M1 règlement (CE) n° 1642/2003 du Parlement européen et du Conseil du 22 juillet 2003  (JOUE n° L245 du 29/09/2003, p. 4). 
+◗ M2 règlement (CE) n° 575/2006 de la Commission du 7 avril 2006 (JOUE n° L100 du  08/04/2006, p. 3). 
+◗ M3 règlement (CE) n° 202/2008 de la Commission du 4 mars 2008 (JOUE n° L60 du  05/03/2008, p. 17). 
++ Ensemble des autres règlements du « paquet hygiène » : 
+Aliments pour animaux 
+	Toutes denrées  
+alimentaires 
+	Aliments d’origine animale
+	Règlement (CE) n° 178/2002
+	Règlement (CE) n° 183/2005 
+	Règlement (CE)  
+n° 852/2004
+	Règlement (CE) n° 853/2004 (en complément du 852/2004)
+	Projet d’annexe sur les critères microbiologiques
+	Règlement (CE) n° 2073/2005 sur les critères  
+microbiologiques
+	Projet de règlement « Liste 
+positive de matières premières »
+	Règlement (CE) n° 2074/2005
+	relatif aux mesures d’application pour certaines activités
+	
+
+
+
+Règlement (CE) n° 2075/2005 
+Règlement (CE) n° 2076/2005 
+◗ Règlement (CE) n° 1333/2008 du Parlement européen et du Conseil du 16 décembre 2008 sur  les additifs alimentaires (JOUE n° L354 du 31/12/2008, p. 16) et ses très nombreux amendements.  (https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:354:0016:0033:FR:PDF) 
+A2 _ 6 Mesures nationales spécifiques françaises 
+Versions consolidées disponibles dans la Brochure 1227 dont le tirage est épuisé. 
+◗ Arrêté du 28 juin 1912* relatif à la coloration, la conservation et l’emballage des denrées  alimentaires et des boissons (J.O. du 29 juin 2012) modifié par : 
+◗ Arrêté du 28 février 1952 (J.O. du 16 mars 1952) 
+◗ Arrêté du 5 juillet 1956 (J.O. du 13 juillet et rectificatif J.O. du 25 septembre 1956) ◗ Arrêté du 15 octobre 1964 (J.O. du 4 novembre 1964) 
+◗ Arrêté du 7 décembre 1964 (J.O. du 5 janvier 1965) 
+◗ Arrêté du 8 décembre 1964 (J.O. du 5 janvier 1965) 
+◗ Arrêté du 31 mars 1967 (J.O. du 20 mai 1967) 
+◗ Arrêté du 13 février 1970 (J.O. du 3 avril 1970) 
+◗ Arrêté du 12 mai 1971 (J.O. du 27 mai 1971) 
+◗ Arrêté du 24 août 1976 (J.O. du 28 août 1976)
+46 
+◗ Arrêté du 6 novembre 1978 (J.O. du 23 novembre 1978) 
+◗ Arrêté du 31 octobre 1985 (J.O. du 28 novembre 1985) 
+◗ Arrêté du 22 novembre 1988 (J.O. du 30 novembre 1988) 
+◗ Arrêté du 19 novembre 1990 (J.O. du 6 décembre 1990) 
+◗ Arrêté du 14 octobre 1991 (J.O. du 10 décembre 1991) 
+◗ Arrêté du 23 juin 1993 (J.O. du 21 juillet 1993) 
+◗ Arrêté du 15 novembre 1945* fixant la liste des matériaux susceptibles d’être utilisés  sans inconvénient pour la santé publique dans la fabrication des instruments de mesure  (J.O. du 18 novembre 1945). 
+◗ Arrêté du 13 janvier 1976 relatif aux matériaux et objets en acier inoxydable au contact  des denrées alimentaires (J.O. du 31 janvier 1976). 
+◗ Arrêté du 27 août 1987 relatif aux matériaux et objets en aluminium ou en alliages d’alumi nium au contact des denrées, produits et boissons alimentaires (J.O. du 18 septembre 1987). 
+◗ Arrêté du 25 novembre 1992 relatif aux objets en élastomère de silicone mis ou destinés  à être mis en contact avec des denrées, produits et boissons alimentaires. Liste positive de  substances autorisées et limites de migration (JORF du 17 décembre 1992). 
+◗ Arrêté du 5 août 2020 relatif aux matériaux et objets en caoutchouc au contact des denrées,  produits et boissons alimentaires avec application au 1er juillet 2021 (JORF n° 0196 du 11/08/2020  texte 10 sur 118). Initialement arrêté du 9 novembre 1994 (JORF n° 279 du 02/12/1994, p. 17029).  Modifié (Clause de reconnaissance mutuelle) par l’arrêté du 9 août 2005 (JORF n° 201 du 30 août 2005,  texte 9 sur 147) et l’arrêté du 19 décembre 2006 (JORF n° 301 du 29 décembre 2006, texte 27 sur 193). 
+◗ Loi n° 2012-1442 du 24 décembre 2012 visant à la suspension de la fabrication, de l’im portation, de l’exportation et de la mise sur le marché de tout conditionnement à vocation  alimentaire contenant du bisphénol A (JORF n° 0300 du 26 décembre 2012, texte n° 2). 
+◗ Voir aussi : Mise en œuvre de la loi bisphénol A (BPA) datée du 08/12/2014 sur le site  de la DGCCRF. 
+Autres textes français 
+Fiches DGCCRF (Liste, Téléchargement) 
+Colorants 
+Circulaire n° 176* consolidée du 2 décembre 1959 modifiée relative aux pigments et colo rants des matières plastiques et emballages. 
+Projet d’arrêté (numéro de notification TRIS : 2004/328/F) relatif à la coloration des maté riaux et objets en matière plastique, des vernis et des revêtements destinés à entrer en  contact avec les denrées, produits et boissons pour l’alimentation de l’homme et des  animaux. 
+Divers – Instruction du 29 août 1991* relative à l’emploi de certaines substances dans l’élabora tion des matériaux au contact des denrées alimentaires (BOCCRF du 6 septembre 1991) –  Pierres de cuisson. 
+Produits de nettoyage (Textes connexes) 
+Décret n° 73-138 du 12 février 1973 modifié portant application de la loi du 1er août 1905 sur les  fraudes et falsifications en ce qui concerne les procédés et les produits utilisés pour le nettoyage 
+47 
+des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons  pour l’alimentation de l’homme ou des animaux. 
+◗ Arrêté du 8 septembre 1999 pris pour l’application de l’article 11 du décret n° 73-138  du 12 février 1973 modifié portant application de la loi du 1er août 1905 sur les fraudes et  falsifications en ce qui concerne les procédés et les produits utilisés pour le nettoyage des  matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons  pour l’alimentation de l’homme et des animaux. 
+◗ Arrêté du 19 décembre 2013 modifiant l’arrêté du 8 septembre 1999 pris pour l’applica tion de l’article 11 du décret n° 73-138 du 12 février 1973 modifié portant application de la  loi du 1er août 1905 sur les fraudes et falsifications en ce qui concerne les procédés et les  produits utilisés pour le nettoyage des matériaux et objets destinés à entrer en contact avec  des denrées, produits et boissons pour l’alimentation de l’homme et des animaux. 
+◗ Avis de l’AFSSA relatif à l’évaluation des risques pour l’Homme des constituants des  produits de nettoyage des matériaux et objets destinés à entrer au contact avec des denrées  alimentaires : Recommandations (2 août 2007). 
+Les textes européens sont téléchargeables depuis le site Eur-Lex (cf. également le site de la  DG SANTÉ, les textes français les plus récents depuis le site Légifrance. 
+* : Textes non disponibles en téléchargement sur Légifrance, mais le Cetim (sqr@cetim.fr) peut en  fournir une copie.
+48 
+Annexe 3Laboratoires
+EURL-FCM (European Union Reference Laboratory for Food Contact Materials) : Laboratoire  européen de référence pour les matériaux au contact des denrées alimentaires (Ispra, Italie – Inau guration le 7 décembre 2006). Il a pour mission de fournir des outils analytiques harmonisés aux  laboratoires nationaux de contrôle et de coordonner le Réseau de Laboratoires nationaux de réfé rence (NRLs ou LNR en français). 
+Site web: https://ec.europa.eu/jrc/en/eurl/food-contact-materials 
+Liste des Laboratoires nationaux de référence : https://ec.europa.eu/jrc/en/eurl/food-contact-materials 
+En France, le LNE et le laboratoire de la DGCCRF de Bordeaux-Talence appartiennent au réseau  de Laboratoires nationaux de référence (NRLs) qui a en charge la validation des méthodes d’analyse  de conformité des matériaux destinés à entrer au contact des denrées alimentaires. 
+Laboratoires membres du groupe technique de consultation de la DGCCRF22 sur les matériaux  et objets destinés à entrer en contact avec les denrées alimentaires. 
+Laboratoire de la DGCCRF de Bordeaux 
+351, cours de la Libération – 33405 Talence Cedex 
+Tél. : +33 05 56 84 24 37 – Fax : +33 05 56 84 66 71 Mél : labo33@dgccrf.finances.gouv.fr 
+LNE, Laboratoire national d’essais www.lne.fr 
+5, avenue Enrico Fermi – 78197 Trappes Cedex 
+Tél. : +33 01 30 69 10 00 – Fax : +33 01 30 69 12 34 Mél : info@lne.fr 
+Laboratoire DGCCRF de Lyon 
+10, avenue des Saules, BP 74 – 69922 Oullins Cedex 
+Tél. : +33 04 72 39 51 61 – Fax : +33 04 72 39 51 81 Mél : labo69@scl.finances.gouv.fr 
+CTCPA de Bourg-en-Bresse www.alimentec.com (Emballages) Technopole Alimentec, rue Henri de Boissieu – 01060 Bourg-en-Bresse Cedex Tél. : +33 04 74 45 52 35 – Fax : +33 04 74 45 52 36 Mél : bourg@ctcpa.org 
+CTP (Centre technique du papier) www.webctp.com (Papiers et cartons) Domaine Universitaire – CS 90251 – 38044 Grenoble Cedex 9 – Antennes : Douai et Épinal Contact : Delphine Ottenio – Matériaux Papiers-Cartons pour contact alimentaire Tél. : (ligne directe) : +33 04 76 15 40 38 – Fax : +33 04 76 15 40 16 
+IANESCO 
+BIOPOLE 6, rue Carol Heitz – 86000 Poitiers www.ianesco.fr (MCDA) Tél. : +33 05 49 44 76 14 – Fax : +33 05 49 44 76 22 Mél : infos@ianesco.fr 
+INOVALYS (Angers, Nantes, Le Mans) www.inovalys.fr/ Matériaux plastiques, papiers et cartons 
+22. Le laboratoire suisse : SQTS, Swiss Quality Testing Services, Grünaustrasse 23 – CH-8953 Dietikon (www.sqts.ch) peut être à même  de réaliser certains essais qui ne pourraient l’être en France.
+50 
+INTERTEK France 
+www.intertek-france.com/materiaux/essais-migration/ 
+POURQUERY www.pourquery.fr 93, bd du Parc d’Artillerie – BP 7251 – 69354 Lyon Cedex 07 
+Tél. : +33 04 78 61 21 16 – Fax : +33 04 78 61 01 90 Mél : contact@pourquery.fr 
+SGS CTS 
+65, rue Ettore Bugatti – 76800 Saint-Étienne-du-Rouvray Tél. : +33 02 35 07 91 91 
+www.sgsgroup.fr/fr-fr/consumer goods-retail/packaging/testing/ food-contact-tests
+51 
+Annexe 4Liens Internet23 
+23. Malgré le soin apporté à la réalisation de cette note, certains liens hypertextes peuvent ne pas fonctionner correcte ment, notamment en raison de modifications des sites Internet ciblés (ex. : « page not found ») ou d’options de sécurité de  certains visualiseurs de fichiers au format PDF.
+Union européenne et Conseil de l’Europe 
+Eur-Lex : L’accès au droit de l’Union européenne (règlements, directives, décisions) : https://eur-lex. europa.eu/ 
+DG SANTÉ (Direction générale de la santé et sécurité alimentaire) 
+MCDA Textes spécifiques MCDA 
+Portail RASFF (Rapid Alert System for Food and Feed) : https://ec.europa.eu/food/safety/ rasff_en 
+Rapport sur MCDA à réglementation non harmonisée (2017) 
+EFSA (Autorité européenne de sécurité alimentaire) : https://www.efsa.europa.eu/fr 
+Dossier Matériaux au contact des aliments 
+Lignes directrices pour la soumission d’une nouvelle substance dans les matières  plastiques 
+Rapport du groupe de travail ESCO24 (EFSA 2012 : EN-139, MCDA non plastiques) JRC (Joint Reseach Center)/IHCP (Institute for Health and Consumer Protection) ◗ EURL-FCM (European Reference Laboratory for Food Contact Materials) Rapport d’essai interlaboratoire (ILC) sur le dosage de métaux (2017) 
+Parlement européen  : Résolution sur la mise en œuvre du règlement (CE) n°  1935/2004  (6 octobre 2016) 
+Conseil de l’Europe : Contact alimentaire– Rapports (CM Search– Filtrer en choisissant « Health »  comme Topic) 
+Le Guide « Metals and alloys used in food contact materials and articles » est disponible  en anglais et en français 
+Les versions électroniques peuvent être obtenues gratuitement depuis https://register. edqm.eu/freepub 
+Les versions papier peuvent être commandées sur l’EDQM store : https://store.edqm.eu/ Résolution du Conseil de l’Europe CM/Res(2013)9 à laquelle le guide est associé. 
+CEN – Comité européen de normalisation 
+CEN TC 153 : « Matériels destinés à être utilisés avec des denrées alimentaires et des  aliments pour animaux » 
+CEN TC 194 : « Ustensiles en contact avec des denrées alimentaires » 
+EHEDG : European Hygienic Design Group (Documents gratuits) EHEDG-France 
+France 
+Légifrance (l’accès au droit français) : https://www.legifrance.gouv.fr/ 
+ANSES : https://www.anses.fr/fr/content/mat%C3%A9riaux-au-contact-des-aliments-d%C3% A9finition-et-encadrement 
+DGCCRF : Fiches matériaux au contact : https://www.economie.gouv.fr/dgccrf/Materiaux-au contact-des-denrees-alimentaires 
+ANIA : Modèle de déclaration de conformité https://www.ania.net/alimentation-sante/declaration conformite-materiaux-equipements-au-contact-denrees-alimentaires (versions en français et en  anglais de juillet 2019, avec la note d’aide au remplissage) 
+24. ESCO : EFSA Scientific Cooperation.
+54 
+Cetim : site web, sqr : Service Questions-Réponses –guide « Matériaux au contact des aliments –  Réglementation » 
+Pour télécharger la dernière version du mémento Cetim, se connecter à la Mécathèque du  Cetim (https://www.cetim.fr/mecatheque), cliquer sur « Accéder » puis choisir « Résultats  d’études ». Comme critère de recherche, vous pouvez, par exemple, taper « Matériaux  contact denrées alimentaires » et la dernière version du mémento mise en ligne devrait  apparaître dans la liste des résultats sélectionnés. Pour pouvoir télécharger le mémento,  il faudra d’abord vous connecter avec un compte cotisant ou un compte que vous pouvez  créer gratuitement. 
+LNE : Site Contact alimentaire Afnor 
+Divers 
+EHEDG (https://www.ehedg.fr/) : « Conception hygiénique de matériel et nettoyage-désinfection »  Ouvrage (2016) 
+Food contact materials (UE et spécificités nationales, USA, Canada…) 
+Site ChemSafetypro.com : Réglementation UE Mesures nationales Easy Doc (Déclaration de conformité pour les matériaux plastiques) 
+Allemagne, Recommandations https://bfr.ble.de/kse/faces/DBEmpfehlung_en.jspfR ; Banque de  données MCDA* (ISP) maintenant uniquement disponible sur abonnement 
+Italie Mesures spécifiques : décret modifié du 21 mars 1973 (Liste des amendements)
+55 
+Matériaux destinés à entrer au contact  
+des denrées alimentaires (MCDA) 
+Mis à jour le 17 octobre 2022, ce mémento, traitant spécifiquement des exigences  d’alimentarité des matériaux entrant au contact des denrées, a pour vocation de  synthétiser les règles que les fabricants sont légalement tenus de respecter et  les recommandations applicables, et ce, pour l’Europe et la France. Il aborde  dans cette version toutes les modifications apportées à certaines normes  ayant vu le jour il y a plusieurs années et qui sont aujourd’hui techniquement  dépassées. Les acteurs concernés – fabricants d’équipements, de matériels et  de composants de ces matériels à l’usage des industries alimentaires, artisans  (boulangers, pâtissiers…), restaurateurs (équipements des grandes cuisines), et  fabricants d’articles culinaires – y trouveront donc toutes les informations pour  s’y conformer. Particulièrement exhaustif, ce document aborde l’ensemble des  sujets : bases de la réglementation et organismes habilités ; réglementations,  recommandations et normes applicables ; point d’actualité listant en particulier  les évolutions les plus récentes ; règlement cadre n° 1935/2044 ; classes de  matériaux à réglementation harmonisée, partiellement ou non harmonisée ;  mesures spécifiques… Enfin, de nombreuses annexes viennent encore enrichir  son contenu en abordant la déclaration de conformité, en listant les textes  réglementaires référencés en vigueur dans l’Union européenne et en France,  les différents laboratoires à même de réaliser les essais ainsi que tous les liens  Internet utiles. 
+cetim.fr 
+Centre technique des industries mécaniques 
+52, avenue Félix-Louat • C.S. 80067 
+60304 Senlis Cedex  
+Tél. : +33 (0)9 70 82 16 80
+2022 - Code AP 249062 
+N° CETIM : 9Q448 
+ISSN : 1767-2546 
+ISBN : 978-2-36894-265-9
