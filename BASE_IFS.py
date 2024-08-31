@@ -66,10 +66,37 @@ with st.expander("À propos de cette application"):
     st.write("""
     ## À propos de cette application
 
-    Cette application vous permet de poser des questions sur les normes IFSv8, PAM, et BRCGS V9.
-    Elle utilise une intelligence artificielle pour analyser des documents spécifiques et fournir des réponses précises à vos questions.
-    Utilisez le menu pour naviguer entre les différentes pages et poser vos questions.
-    """)
+    Bienvenue dans l'application VisiPilot, conçue pour vous aider à poser des questions sur les normes IFSv8, PAM, et BRCGS V9. Cette application utilise une intelligence artificielle pour analyser des documents spécifiques et fournir des réponses précises à vos questions.
+    
+    ## Fonctionnalités Principales
+    
+    ### Page 1 : Questions sur la norme BRCGS V9
+    
+    - **But** : Permet aux utilisateurs de poser des questions sur la norme BRCGS V9.
+    - **Fonctionnement** :
+      1. **Chargement du Document** : L'application télécharge un document contenant des informations sur la norme BRCGS V9 depuis un fichier hébergé sur GitHub.
+      2. **Saisie de la Question** : Les utilisateurs peuvent saisir leur question dans un champ de texte.
+      3. **Génération de la Réponse** : Une fois la question soumise, l'intelligence artificielle analyse le document et génère une réponse adaptée.
+    
+    ### Page 2 : Questions sur IFSv8 et PAM
+    
+    - **But** : Permet aux utilisateurs de poser des questions sur les normes IFSv8 et PAM.
+    - **Fonctionnement** :
+      1. **Chargement des Documents** : L'application télécharge plusieurs documents pertinents depuis Google Drive.
+      2. **Saisie de la Question** : Les utilisateurs peuvent poser une question en lien avec ces normes.
+      3. **Génération de la Réponse** : L'intelligence artificielle traite la question et renvoie une réponse basée sur le contenu des documents chargés.
+    - **Documents Chargés** : L'application charge plusieurs fichiers depuis Google Drive 
+    
+    ### Page 3 : Questions sur IFSv8 et MCDA
+    
+    - **But** : Fournir des réponses aux questions liées à IFSv8 et MCDA (Méthode de Conception et Développement de l'Analyse).
+    - **Fonctionnement** :
+      1. **Chargement des Documents** : Comme pour la page sur IFSv8 et PAM, cette page charge des documents spécifiques depuis Google Drive.
+      2. **Saisie de la Question** : Un champ de texte est disponible pour poser des questions sur IFSv8 et MCDA.
+      3. **Génération de la Réponse** : L'intelligence artificielle répond aux questions en analysant le contenu des documents.
+    - **Documents Chargés** : Les mêmes documents que ceux utilisés pour IFSv8 et PAM sont également utilisés ici.
+        
+        """)
 
 def main():
     # Affichage d'une image en haut de la page
