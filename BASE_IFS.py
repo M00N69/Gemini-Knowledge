@@ -47,6 +47,14 @@ def load_documents():
     return "\n\n".join(documents_text), file_ids  # Return both documents_text and file_ids
 
 def main():
+    # Ajouter la description de l'application dans un expander
+    with st.expander("À propos de cette application", expanded=False):
+        st.write("""
+        Cette application vous permet de poser des questions sur les normes IFSv8, PAM, et BRCGS V9.
+        Elle utilise une intelligence artificielle pour analyser des documents spécifiques et fournir des réponses précises à vos questions.
+        Utilisez le menu pour naviguer entre les différentes pages et poser vos questions.
+        """)
+
     # Displaying an image without a caption
     image_path = 'https://raw.githubusercontent.com/M00N69/Gemini-Knowledge/main/visipilot%20banner.PNG'  # Ensure the path to your image file is correct
     st.image(image_path, use_column_width=True)
