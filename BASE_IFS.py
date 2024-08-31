@@ -97,6 +97,16 @@ with st.expander("À propos de cette application"):
     - **Documents Chargés** : Les mêmes documents que ceux utilisés pour IFSv8 et PAM sont également utilisés ici.
         
         """)
+# Affichage d'un logo et d'un lien vers un site web dans la barre latérale
+st.sidebar.markdown(
+    """
+    <div class="sidebar-logo-container">
+        <a href="https://www.visipilot.com" target="_blank">
+            <img src="https://raw.githubusercontent.com/M00N69/RAPPELCONSO/main/logo%2004%20copie.jpg" alt="Visipilot Logo" class="sidebar-logo">
+        </a>
+    </div>
+    """, unsafe_allow_html=True
+)
 
 def main():
     # Affichage d'une image en haut de la page
@@ -127,13 +137,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Affichage d'un logo et d'un lien vers un site web dans la barre latérale
-st.sidebar.markdown(
-    """
-    <div class="sidebar-logo-container">
-        <a href="https://www.visipilot.com" target="_blank">
-            <img src="https://raw.githubusercontent.com/M00N69/RAPPELCONSO/main/logo%2004%20copie.jpg" alt="Visipilot Logo" class="sidebar-logo">
-        </a>
-    </div>
-    """, unsafe_allow_html=True
-)
