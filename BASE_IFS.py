@@ -48,7 +48,8 @@ def load_documents():
 
 def main():
     # Ajouter la description de l'application directement
-    st.markdown("""
+    with st.expander("À propos de cette application"):
+    st.write("""
     ## À propos de cette application
 
     Cette application vous permet de poser des questions sur les normes IFSv8, PAM, et BRCGS V9.
