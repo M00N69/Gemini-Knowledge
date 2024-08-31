@@ -46,8 +46,10 @@ def load_documents():
             return None  # Or handle the error differently if needed
     return "\n\n".join(documents_text), file_ids  # Return both documents_text and file_ids
 
-def main():
-    # Ajouter la description de l'application directement
+# Configurer le mode wide
+st.set_page_config(layout="wide")
+
+  # Ajouter la description de l'application directement
     with st.expander("À propos de cette application"):
     st.write("""
     ## À propos de cette application
@@ -57,6 +59,8 @@ def main():
     Utilisez le menu pour naviguer entre les différentes pages et poser vos questions.
     """)
 
+def main():
+  
     # Displaying an image without a caption
     image_path = 'https://raw.githubusercontent.com/M00N69/Gemini-Knowledge/main/visipilot%20banner.PNG'  # Ensure the path to your image file is correct
     st.image(image_path, use_column_width=True)
