@@ -243,7 +243,7 @@ def configure_model(document_text):
     try:
         # Création du modèle
         model = genai.GenerativeModel(
-            model_name="gemini-1.5-flash-latest",
+            model_name="gemini-2.5-flash-preview-04-17",
             generation_config=generation_config,
             system_instruction=document_text,
             safety_settings=safety_settings
@@ -435,7 +435,7 @@ with st.sidebar.expander("À propos de cette application"):
     ## À propos
 
     Bienvenue dans l'application VisiPilot, conçue pour vous aider à poser des questions sur les normes BRCGS V9, IFSv8, PAM et MCDA.
-    Elle utilise l'intelligence artificielle (`gemini-1.5-flash-latest`) pour analyser des documents spécifiques et fournir des réponses.
+    Elle utilise l'intelligence artificielle (`gemini-2.5-flash-preview-04-17`) pour analyser des documents spécifiques et fournir des réponses.
 
     **Fonctionnalités :**
     - **BRCGS V9 :** Questions basées sur un guide d'interprétation (document GitHub).
