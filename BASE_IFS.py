@@ -25,7 +25,7 @@ def configure_model(document_text):
     
     # Création du modèle avec les configurations définies
     model = genai.GenerativeModel(
-        model_name="gemini-1.5-pro-latest",
+        model_name="gemini-2.5-flash-preview-04-17",
         generation_config=generation_config,
         system_instruction=document_text,
         safety_settings=safety_settings
